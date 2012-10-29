@@ -1,0 +1,2056 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block F40-F48
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter V">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf30.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf50.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gf40.htm',window.location.hash.substring(1))">
+
+<H1>Chapter V
+<BR>
+<HR>Mental and behavioural disorders
+<BR>(F00-F99)
+</H1>
+<H2>Neurotic, stress-related and somatoform disorders
+<BR>(F40-F48)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">when associated with conduct disorder in F91.- 
+<NOBR>(
+<A HREF="gf90.htm#f928">F92.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f40">
+</A>F40
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Phobic anxiety disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A group of disorders in which anxiety is evoked only, or predominantly, in certain well-defined situations that are not currently dangerous. As a result these situations are characteristically avoided or endured with dread. The patient's concern may be focused on individual symptoms like palpitations or feeling faint and is often associated with secondary fears of dying, losing control, or going mad. Contemplating entry to the phobic situation usually generates anticipatory anxiety. Phobic anxiety and depression often coexist. Whether two diagnoses, phobic anxiety and depressive episode, are needed, or only one, is determined by the time course of the two conditions and by therapeutic considerations at the time of consultation.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f400">
+</A>F40.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Agoraphobia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A fairly well-defined cluster of phobias embracing fears of leaving home, entering shops, crowds and public places, or travelling alone in trains, buses or planes. Panic disorder is a frequent feature of both present and past episodes. Depressive and obsessional symptoms and social phobias are also commonly present as subsidiary features. Avoidance of the phobic situation is often prominent, and some agoraphobics experience little anxiety because they are able to avoid their phobic situations.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Agoraphobia without history of panic disorder
+<BR>Panic disorder with agoraphobia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f401">
+</A>F40.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Social phobias
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Fear of scrutiny by other people leading to avoidance of social situations. More pervasive social phobias are usually associated with low self-esteem and fear of criticism. They may present as a complaint of blushing, hand tremor, nausea, or urgency of micturition, the patient sometimes being convinced that one of these secondary manifestations of their anxiety is the primary problem. Symptoms may progress to panic attacks.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anthropophobia
+<BR>Social neurosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f402">
+</A>F40.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Specific (isolated) phobias
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Phobias restricted to highly specific situations such as proximity to particular animals, heights, thunder, darkness, flying, closed spaces, urinating or defecating in public toilets, eating certain foods, dentistry, or the sight of blood or injury. Though the triggering situation is discrete, contact with it can evoke panic as in agoraphobia or social phobia.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Acrophobia
+<BR>Animal phobias
+<BR>Claustrophobia
+<BR>Simple phobia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">dysmorphophobia (nondelusional) 
+<NOBR>(
+<A HREF="#f452">F45.2
+</A>)
+</NOBR>
+<BR>nosophobia 
+<NOBR>(
+<A HREF="#f452">F45.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f408">
+</A>F40.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other phobic anxiety disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f409">
+</A>F40.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Phobic anxiety disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Phobia NOS
+<BR>Phobic state NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f41">
+</A>F41
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other anxiety disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Disorders in which manifestation of anxiety is the major symptom and is not restricted to any particular environmental situation. Depressive and obsessional symptoms, and even some elements of phobic anxiety, may also be present, provided that they are clearly secondary or less severe.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f410">
+</A>F41.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Panic disorder [episodic paroxysmal anxiety]
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The essential feature is recurrent attacks of severe anxiety (panic), which are not restricted to any particular situation or set of circumstances and are therefore unpredictable. As with other anxiety disorders, the dominant symptoms include sudden onset of palpitations, chest pain, choking sensations, dizziness, and feelings of unreality (depersonalization or derealization). There is often also a secondary fear of dying, losing control, or going mad. Panic disorder should not be given as the main diagnosis if the patient has a depressive disorder at the time the attacks start; in these circumstances the panic attacks are probably secondary to depression.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Panic:
+<BR>&middot; attack
+<BR>&middot; state
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">panic disorder with agoraphobia 
+<NOBR>(
+<A HREF="#f400">F40.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f411">
+</A>F41.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Generalized anxiety disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anxiety that is generalized and persistent but not restricted to, or even strongly predominating in, any particular environmental circumstances (i.e. it is "free-floating"). The dominant symptoms are variable but include complaints of persistent nervousness, trembling, muscular tensions, sweating, lightheadedness, palpitations, dizziness, and epigastric discomfort. Fears that the patient or a relative will shortly become ill or have an accident are often expressed.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anxiety:
+<BR>&middot; neurosis
+<BR>&middot; reaction
+<BR>&middot; state
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">neurasthenia 
+<NOBR>(
+<A HREF="#f480">F48.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f412">
+</A>F41.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mixed anxiety and depressive disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">This category should be used when symptoms of anxiety and depression are both present, but neither is clearly predominant, and neither type of symptom is present to the extent that justifies a diagnosis if considered separately. When both anxiety and depressive symptoms are present and severe enough to justify individual diagnoses, both diagnoses should be recorded and this category should not be used.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anxiety depression (mild or not persistent)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f413">
+</A>F41.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other mixed anxiety disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Symptoms of anxiety mixed with features of other disorders in F42-F48. Neither type of symptom is severe enough to justify a diagnosis if considered separately.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f418">
+</A>F41.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other specified anxiety disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anxiety hysteria
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f419">
+</A>F41.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Anxiety disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anxiety NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f42">
+</A>F42
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Obsessive-compulsive disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The essential feature is recurrent obsessional thoughts or compulsive acts. Obsessional thoughts are ideas, images, or impulses that enter the patient's mind again and again in a stereotyped form. They are almost invariably distressing and the patient often tries, unsuccessfully, to resist them. They are, however, recognized as his or her own thoughts, even though they are involuntary and often repugnant. Compulsive acts or rituals are stereotyped behaviours that are repeated again and again. They are not inherently enjoyable, nor do they result in the completion of inherently useful tasks. Their function is to prevent some objectively unlikely event, often involving harm to or caused by the patient, which he or she fears might otherwise occur. Usually, this behaviour is recognized by the patient as pointless or ineffectual and repeated attempts are made to resist. Anxiety is almost invariably present. If compulsive acts are resisted the anxiety gets worse.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">anankastic neurosis
+<BR>osessive-compulsive neurosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">obsessive-compulsive personality (disorder) 
+<NOBR>(
+<A HREF="gf60.htm#f605">F60.5
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f420">
+</A>F42.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Predominantly obsessional thoughts or ruminations
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">These may take the form of ideas, mental images, or impulses to act, which are nearly always distressing to the subject. Sometimes the ideas are an indecisive, endless consideration of alternatives, associated with an inability to make trivial but necessary decisions in day-to-day living. The relationship between obsessional ruminations and depression is particularly close and a diagnosis of obsessive-compulsive disorder should be preferred only if ruminations arise or persist in the absence of a depressive episode.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f421">
+</A>F42.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Predominantly compulsive acts [obsessional rituals]
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The majority of compulsive acts are concerned with cleaning (particularly handwashing), repeated checking to ensure that a potentially dangerous situation has not been allowed to develop, or orderliness and tidiness. Underlying the overt behaviour is a fear, usually of danger either to or caused by the patient, and the ritual is an ineffectual or symbolic attempt to avert that danger.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f422">
+</A>F42.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mixed obsessional thoughts and acts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f428">
+</A>F42.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other obsessive-compulsive disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f429">
+</A>F42.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Obsessive-compulsive disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f43">
+</A>F43
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Reaction to severe stress, and adjustment disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">This category differs from others in that it includes disorders identifiable on the basis of not only symptoms and course but also the existence of one or other of two causative influences: an exceptionally stressful life event producing an acute stress reaction, or a significant life change leading to continued unpleasant circumstances that result in an adjustment disorder. Although less severe psychosocial stress ("life events") may precipitate the onset or contribute to the presentation of a very wide range of disorders classified elsewhere in this chapter, its etiological importance is not always clear and in each case will be found to depend on individual, often idiosyncratic, vulnerability, i.e. the life events are neither necessary nor sufficient to explain the occurrence and form of the disorder. In contrast, the disorders brought together here are thought to arise always as a direct consequence of acute severe stress or continued trauma. The stressful events or the continuing unpleasant circumstances are the primary and overriding causal factor and the disorder would not have occurred without their impact. The disorders in this section can thus be regarded as maladaptive responses to severe or continued stress, in that they interfere with successful coping mechanisms and therefore lead to problems of social functioning.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f430">
+</A>F43.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Acute stress reaction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A transient disorder that develops in an individual without any other apparent mental disorder in response to exceptional physical and mental stress and that usually subsides within hours or days. Individual vulnerability and coping capacity play a role in the occurrence and severity of acute stress reactions. The symptoms show a typically mixed and changing picture and include an initial state of "daze" with some constriction of the field of consciousness and narrowing of attention, inability to comprehend stimuli, and disorientation. This state may be followed either by further withdrawal from the surrounding situation (to the extent of a dissociative stupor - F44.2), or by agitation and over-activity (flight reaction or fugue). Autonomic signs of panic anxiety (tachycardia, sweating, flushing) are commonly present. The symptoms usually appear within minutes of the impact of the stressful stimulus or event, and disappear within two to three days (often within hours). Partial or complete amnesia (F44.0) for the episode may be present. If the symptoms persist, a change in diagnosis should be considered.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Acute:
+<BR>&middot; crisis reaction
+<BR>&middot; reaction to stress
+<BR>Combat fatigue
+<BR>Crisis state
+<BR>Psychic shock
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f431">
+</A>F43.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Post-traumatic stress disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Arises as a delayed or protracted response to a stressful event or situation (of either brief or long duration) of an exceptionally threatening or catastrophic nature, which is likely to cause pervasive distress in almost anyone. Predisposing factors, such as personality traits (e.g. compulsive, asthenic) or previous history of neurotic illness, may lower the threshold for the development of the syndrome or aggravate its course, but they are neither necessary nor sufficient to explain its occurrence. Typical features include episodes of repeated reliving of the trauma in intrusive memories ("flashbacks"), dreams or nightmares, occurring against the persisting background of a sense of "numbness" and emotional blunting, detachment from other people, unresponsiveness to surroundings, anhedonia, and avoidance of activities and situations reminiscent of the trauma. There is usually a state of autonomic hyperarousal with hypervigilance, an enhanced startle reaction, and insomnia. Anxiety and depression are commonly associated with the above symptoms and signs, and suicidal ideation is not infrequent. The onset follows the trauma with a latency period that may range from a few weeks to months. The course is fluctuating but recovery can be expected in the majority of cases. In a small proportion of cases the condition may follow a chronic course over many years, with eventual transition to an enduring personality change (F62.0).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Traumatic neurosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f432">
+</A>F43.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Adjustment disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">States of subjective distress and emotional disturbance, usually interfering with social functioning and performance, arising in the period of adaptation to a significant life change or a stressful life event. The stressor may have affected the integrity of an individual's social network (bereavement, separation experiences) or the wider system of social supports and values (migration, refugee status), or represented a major developmental transition or crisis (going to school, becoming a parent, failure to attain a cherished personal goal, retirement). Individual predisposition or vulnerability plays an important role in the risk of occurrence and the shaping of the manifestations of adjustment disorders, but it is nevertheless assumed that the condition would not have arisen without the stressor. The manifestations vary and include depressed mood, anxiety or worry (or mixture of these), a feeling of inability to cope, plan ahead, or continue in the present situation, as well as some degree of disability in 9the performance of daily routine. Conduct disorders may be an associated feature, particularly in adolescents. The predominant feature may be a brief or prolonged depressive reaction, or a disturbance of other emotions and conduct.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Culture shock
+<BR>Grief reaction
+<BR>Hospitalism in children
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">separation anxiety disorder of childhood 
+<NOBR>(
+<A HREF="gf90.htm#f930">F93.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f438">
+</A>F43.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other reactions to severe stress
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f439">
+</A>F43.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Reaction to severe stress, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f44">
+</A>F44
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative [conversion] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The common themes that are shared by dissociative or conversion disorders are a partial or complete loss of the normal integration between memories of the past, awareness of identity and immediate sensations, and control of bodily movements. All types of dissociative disorders tend to remit after a few weeks or months, particularly if their onset is associated with a traumatic life event. More chronic disorders, particularly paralyses and anaesthesias, may develop if the onset is associated with insoluble problems or interpersonal difficulties. These disorders have previously been classified as various types of "conversion hysteria". They are presumed to be psychogenic in origin, being associated closely in time with traumatic events, insoluble and intolerable problems, or disturbed relationships. The symptoms often represent the patient's concept of how a physical illness would be manifest. Medical examination and investigation do not reveal the presence of any known physical or neurological disorder. In addition, there is evidence that the loss of function is an expression of emotional conflicts or needs. The symptoms may develop in close relationship to psychological stress, and often appear suddenly. Only disorders of physical functions normally under voluntary control and loss of sensations are included here. Disorders involving pain and other complex physical sensations mediated by the autonomic nervous system are classified under somatization disorder (F45.0). The possibility of the later appearance of serious physical or psychiatric disorders should always be kept in mind.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">conversion:
+<BR>&middot; hysteria
+<BR>&middot; reaction
+<BR>hysteria
+<BR>hysterical psychosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">malingering [conscious simulation] 
+<NOBR>(
+<A HREF="gz70.htm#z765">Z76.5
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f440">
+</A>F44.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative amnesia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The main feature is loss of memory, usually of important recent events, that is not due to organic mental disorder, and is too great to be explained by ordinary forgetfulness or fatigue. The amnesia is usually centred on traumatic events, such as accidents or unexpected bereavements, and is usually partial and selective. Complete and generalized amnesia is rare, and is usually part of a fugue (F44.1). If this is the case, the disorder should be classified as such. The diagnosis should not be made in the presence of organic brain disorders, intoxication, or excessive fatigue.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">alcohol- or other psychoactive substance-induced amnesic disorder 
+<NOBR>(
+<A HREF="gf10.htm#f10">F10-F19
+</A> with common fourth character .6)
+</NOBR>
+<BR>amnesia:
+<BR>&middot; NOS 
+<NOBR>(
+<A HREF="gr40.htm#r413">R41.3
+</A>)
+</NOBR>
+<BR>&middot; anterograde 
+<NOBR>(
+<A HREF="gr40.htm#r411">R41.1
+</A>)
+</NOBR>
+<BR>&middot; retrograde 
+<NOBR>(
+<A HREF="gr40.htm#r412">R41.2
+</A>)
+</NOBR>
+<BR>nonalcoholic organic amnesic syndrome 
+<NOBR>(
+<A HREF="gf00.htm#f04">F04
+</A>)
+</NOBR>
+<BR>postictal amnesia in epilepsy 
+<NOBR>(
+<A HREF="gg40.htm#g40">G40.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f441">
+</A>F44.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative fugue
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dissociative fugue has all the features of dissociative amnesia, plus purposeful travel beyond the usual everyday range. Although there is amnesia for the period of the fugue, the patient's behaviour during this time may appear completely normal to independent observers.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">postictal fugue in epilepsy 
+<NOBR>(
+<A HREF="gg40.htm#g40">G40.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f442">
+</A>F44.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative stupor
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dissociative stupor is diagnosed on the basis of a profound diminution or absence of voluntary movement and normal responsiveness to external stimuli such as light, noise, and touch, but examination and investigation reveal no evidence of a physical cause. In addition, there is positive evidence of psychogenic causation in the form of recent stressful events or problems.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">organic catatonic disorder 
+<NOBR>(
+<A HREF="gf00.htm#f061">F06.1
+</A>)
+</NOBR>
+<BR>stupor:
+<BR>&middot; NOS 
+<NOBR>(
+<A HREF="gr40.htm#r401">R40.1
+</A>)
+</NOBR>
+<BR>&middot; catatonic 
+<NOBR>(
+<A HREF="gf20.htm#f202">F20.2
+</A>)
+</NOBR>
+<BR>&middot; depressive 
+<NOBR>(
+<A HREF="gf30.htm#f31">F31-F33
+</A>)
+</NOBR>
+<BR>&middot; manic 
+<NOBR>(
+<A HREF="gf30.htm#f302">F30.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f443">
+</A>F44.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Trance and possession disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Disorders in which there is a temporary loss of the sense of personal identity and full awareness of the surroundings. Include here only trance states that are involuntary or unwanted, occurring outside religious or culturally accepted situations.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">states associated with:
+<BR>&middot; acute and transient psychotic disorders 
+<NOBR>(
+<A HREF="gf20.htm#f23">F23.-
+</A>)
+</NOBR>
+<BR>&middot; organic personality disorder 
+<NOBR>(
+<A HREF="gf00.htm#f070">F07.0
+</A>)
+</NOBR>
+<BR>&middot; postconcussional syndrome 
+<NOBR>(
+<A HREF="gf00.htm#f072">F07.2
+</A>)
+</NOBR>
+<BR>&middot; psychoactive substance intoxication 
+<NOBR>(
+<A HREF="gf10.htm#f10">F10-F19
+</A> with common fourth character .0)
+</NOBR>
+<BR>&middot; schizophrenia 
+<NOBR>(
+<A HREF="gf20.htm#f20">F20.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f444">
+</A>F44.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative motor disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">In the commonest varieties there is loss of ability to move the whole or a part of a limb or limbs. There may be close resemblance to almost any variety of ataxia, apraxia, akinesia, aphonia, dysarthria, dyskinesia, seizures, or paralysis.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic:
+<BR>&middot; aphonia
+<BR>&middot; dysphonia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f445">
+</A>F44.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative convulsions
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dissociative convulsions may mimic epileptic seizures very closely in terms of movements, but tongue-biting, bruising due to falling, and incontinence of urine are rare, and consciousness is maintained or replaced by a state of stupor or trance.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f446">
+</A>F44.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative anaesthesia and sensory loss
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anaesthetic areas of skin often have boundaries that make it clear that they are associated with the patient's ideas about bodily functions, rather than medical knowledge. There may be differential loss between the sensory modalities which cannot be due to a neurological lesion. Sensory loss may be accompanied by complaints of paraesthesia. Loss of vision and hearing are rarely total in dissociative disorders.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic deafness
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f447">
+</A>F44.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mixed dissociative [conversion] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Combination of disorders specified in F44.0-F44.6
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f448">
+</A>F44.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other dissociative [conversion] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Ganser's syndrome
+<BR>Multiple personality
+<BR>Psychogenic:
+<BR>&middot; confusion
+<BR>&middot; twilight state
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f449">
+</A>F44.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dissociative [conversion] disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f45">
+</A>F45
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Somatoform disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The main feature is repeated presentation of physical symptoms together with persistent requests for medical investigations, in spite of repeated negative findings and reassurances by doctors that the symptoms have no physical basis. If any physical disorders are present, they do not explain the nature and extent of the symptoms or the distress and preoccupation of the patient.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">dissociative disorders 
+<NOBR>(
+<A HREF="#f44">F44.-
+</A>)
+</NOBR>
+<BR>hair-plucking 
+<NOBR>(
+<A HREF="gf90.htm#f984">F98.4
+</A>)
+</NOBR>
+<BR>lalling 
+<NOBR>(
+<A HREF="gf80.htm#f800">F80.0
+</A>)
+</NOBR>
+<BR>lisping 
+<NOBR>(
+<A HREF="gf80.htm#f808">F80.8
+</A>)
+</NOBR>
+<BR>nail-biting 
+<NOBR>(
+<A HREF="gf90.htm#f988">F98.8
+</A>)
+</NOBR>
+<BR>psychological or behavioural factors associated with disorders or diseases classified elsewhere 
+<NOBR>(
+<A HREF="gf50.htm#f54">F54
+</A>)
+</NOBR>
+<BR>sexual dysfunction, not caused by organic disorder or disease 
+<NOBR>(
+<A HREF="gf50.htm#f52">F52.-
+</A>)
+</NOBR>
+<BR>thumb-sucking 
+<NOBR>(
+<A HREF="gf90.htm#f988">F98.8
+</A>)
+</NOBR>
+<BR>tic disorders (in childhood and adolescence) 
+<NOBR>(
+<A HREF="gf90.htm#f95">F95.-
+</A>)
+</NOBR>
+<BR>Tourette's syndrome 
+<NOBR>(
+<A HREF="gf90.htm#f952">F95.2
+</A>)
+</NOBR>
+<BR>trichotillomania 
+<NOBR>(
+<A HREF="gf60.htm#f633">F63.3
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f450">
+</A>F45.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Somatization disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The main features are multiple, recurrent and frequently changing physical symptoms of at least two years' duration. Most patients have a long and complicated history of contact with both primary and specialist medical care services, during which many negative investigations or fruitless exploratory operations may have been carried out. Symptoms may be referred to any part or system of the body. The course of the disorder is chronic and fluctuating, and is often associated with disruption of social, interpersonal, and family behaviour. Short-lived (less than two years) and less striking symptom patterns should be classified under undifferentiated somatoform disorder (F45.1).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Briquet's disorder
+<BR>Multiple psychosomatic disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">malingering [conscious simulation] 
+<NOBR>(
+<A HREF="gz70.htm#z765">Z76.5
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f451">
+</A>F45.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Undifferentiated somatoform disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">When somatoform complaints are multiple, varying and persistent, but the complete and typical clinical picture of somatization disorder is not fulfilled, the diagnosis of undifferentiated somatoform disorder should be considered.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Undifferentiated psychosomatic disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f452">
+</A>F45.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Hypochondriacal disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The essential feature is a persistent preoccupation with the possibility of having one or more serious and progressive physical disorders. Patients manifest persistent somatic complaints or a persistent preoccupation with their physical appearance. Normal or commonplace sensations and appearances are often interpreted by patients as abnormal and distressing, and attention is usually focused upon only one or two organs or systems of the body. Marked depression and anxiety are often present, and may justify additional diagnoses.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Body dysmorphic disorder
+<BR>Dysmorphophobia (nondelusional)
+<BR>Hypochondriacal neurosis
+<BR>Hypochondriasis
+<BR>Nosophobia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">delusional dysmorphophobia 
+<NOBR>(
+<A HREF="gf20.htm#f228">F22.8
+</A>)
+</NOBR>
+<BR>fixed delusions about bodily functions or shape 
+<NOBR>(
+<A HREF="gf20.htm#f22">F22.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f453">
+</A>F45.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Somatoform autonomic dysfunction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Symptoms are presented by the patient as if they were due to a physical disorder of a system or organ that is largely or completely under autonomic innervation and control, i.e. the cardiovascular, gastrointestinal, respiratory and urogenital systems. The symptoms are usually of two types, neither of which indicates a physical disorder of the organ or system concerned. First, there are complaints based upon objective signs of autonomic arousal, such as palpitations, sweating, flushing, tremor, and expression of fear and distress about the possibility of a physical disorder. Second, there are subjective complaints of a nonspecific or changing nature such as fleeting aches and pains, sensations of burning, heaviness, tightness, and feelings of being bloated or distended, which are referred by the patient to a specific organ or system.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Cardiac neurosis
+<BR>Da Costa's syndrome
+<BR>Gastric neurosis
+<BR>Neurocirculatory asthenia
+<BR>Psychogenic forms of:
+<BR>&middot; aerophagy
+<BR>&middot; cough
+<BR>&middot; diarrhoea
+<BR>&middot; dyspepsia
+<BR>&middot; dysuria
+<BR>&middot; flatulence
+<BR>&middot; hiccough
+<BR>&middot; hyperventilation
+<BR>&middot; increased frequency of micturition
+<BR>&middot; irritable bowel syndrome
+<BR>&middot; pylorospasm
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">psychological and behavioural factors associated with disorders or diseases classified elsewhere 
+<NOBR>(
+<A HREF="gf50.htm#f54">F54
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f454">
+</A>F45.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Persistent somatoform pain disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The predominant complaint is of persistent, severe, and distressing pain, which cannot be explained fully by a physiological process or a physical disorder, and which occurs in association with emotional conflict or psychosocial problems that are sufficient to allow the conclusion that they are the main causative influences. The result is usually a marked increase in support and attention, either personal or medical. Pain presumed to be of psychogenic origin occurring during the course of depressive disorders or schizophrenia should not be included here.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychalgia
+<BR>Psychogenic:
+<BR>&middot; backache
+<BR>&middot; headache
+<BR>Somatoform pain disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">backache NOS 
+<NOBR>(
+<A HREF="gm50.htm#m549">M54.9
+</A>)
+</NOBR>
+<BR>pain:
+<BR>&middot; NOS 
+<NOBR>(
+<A HREF="gr50.htm#r529">R52.9
+</A>)
+</NOBR>
+<BR>&middot; acute 
+<NOBR>(
+<A HREF="gr50.htm#r520">R52.0
+</A>)
+</NOBR>
+<BR>&middot; chronic 
+<NOBR>(
+<A HREF="gr50.htm#r522">R52.2
+</A>)
+</NOBR>
+<BR>&middot; intractable 
+<NOBR>(
+<A HREF="gr50.htm#r521">R52.1
+</A>)
+</NOBR>
+<BR>tension headache 
+<NOBR>(
+<A HREF="gg40.htm#g442">G44.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f458">
+</A>F45.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other somatoform disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Any other disorders of sensation, function and behaviour, not due to physical disorders, which are not mediated through the autonomic nervous system, which are limited to specific systems or parts of the body, and which are closely associated in time with stressful events or problems.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic:
+<BR>&middot; dysmenorrhoea
+<BR>&middot; dysphagia, including "globus hystericus"
+<BR>&middot; pruritus
+<BR>&middot; torticollis
+<BR>Teeth-grinding
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f459">
+</A>F45.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Somatoform disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychosomatic disorder NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f48">
+</A>F48
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other neurotic disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f480">
+</A>F48.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Neurasthenia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Considerable cultural variations occur in the presentation of this disorder, and two main types occur, with substantial overlap. In one type, the main feature is a complaint of increased fatigue after mental effort, often associated with some decrease in occupational performance or coping efficiency in daily tasks. The mental fatiguability is typically described as an unpleasant intrusion of distracting associations or recollections, difficulty in concentrating, and generally inefficient thinking. In the other type, the emphasis is on feelings of bodily or physical weakness and exhaustion after only minimal effort, accompanied by a feeling of muscular aches and pains and inability to relax. In both types a variety of other unpleasant physical feelings is common, such as dizziness, tension headaches, and feelings of general instability. Worry about decreasing mental and bodily well-being, irritability, anhedonia, and varying minor degrees of both depression and anxiety are all common. Sleep is often disturbed in its initial and middle phases but hypersomnia may also be prominent.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Fatigue syndrome
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Use additional code, if desired, to identify previous physical illness.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">asthenia NOS 
+<NOBR>(
+<A HREF="gr50.htm#r53">R53
+</A>)
+</NOBR>
+<BR>burn-out 
+<NOBR>(
+<A HREF="gz70.htm#z730">Z73.0
+</A>)
+</NOBR>
+<BR>malaise and fatigue 
+<NOBR>(
+<A HREF="gr50.htm#r53">R53
+</A>)
+</NOBR>
+<BR>postviral fatigue syndrome 
+<NOBR>(
+<A HREF="gg90.htm#g933">G93.3
+</A>)
+</NOBR>
+<BR>psychasthenia 
+<NOBR>(
+<A HREF="#f488">F48.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f481">
+</A>F48.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Depersonalization-derealization syndrome
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A rare disorder in which the patient complains spontaneously that his or her mental activity, body, and surroundings are changed in their quality, so as to be unreal, remote, or automatized. Among the varied phenomena of the syndrome, patients complain most frequently of loss of emotions and feelings of estrangement or detachment from their thinking, their body, or the real world. In spite of the dramatic nature of the experience, the patient is aware of the unreality of the change. The sensorium is normal and the capacity for emotional expression intact. Depersonalization-derealization symptoms may occur as part of a diagnosable schizophrenic, depressive, phobic, or obsessive-compulsive disorder. In such cases the diagnosis should be that of the main disorder.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f488">
+</A>F48.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other specified neurotic disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dhat syndrome
+<BR>Occupational neurosis, including writer's cramp
+<BR>Psychasthenia
+<BR>Psychasthenic neurosis
+<BR>Psychogenic syncope
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f489">
+</A>F48.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Neurotic disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Neurosis NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

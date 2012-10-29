@@ -1,0 +1,1445 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block F30-F39
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter V">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf20.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf40.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gf30.htm',window.location.hash.substring(1))">
+
+<H1>Chapter V
+<BR>
+<HR>Mental and behavioural disorders
+<BR>(F00-F99)
+</H1>
+<H2>Mood [affective] disorders
+<BR>(F30-F39)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">This block contains disorders in which the fundamental disturbance is a change in affect or mood to depression (with or without associated anxiety) or to elation. The mood change is usually accompanied by a change in the overall level of activity; most of the other symptoms are either secondary to, or easily understood in the context of, the change in mood and activity. Most of these disorders tend to be recurrent and the onset of individual episodes can often be related to stressful events or situations.
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f30">
+</A>F30
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Manic episode
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">All the subdivisions of this category should be used only for a single episode. Hypomanic or manic episodes in individuals who have had one or more previous affective episodes (depressive, hypomanic, manic, or mixed) should be coded as bipolar affective disorder (F31.-).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">bipolar disorder, single manic episode
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f300">
+</A>F30.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Hypomania
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by a persistent mild elevation of mood, increased energy and activity, and usually marked feelings of well-being and both physical and mental efficiency. Increased sociability, talkativeness, over-familiarity, increased sexual energy, and a decreased need for sleep are often present but not to the extent that they lead to severe disruption of work or result in social rejection. Irritability, conceit, and boorish behaviour may take the place of the more usual euphoric sociability. The disturbances of mood and behaviour are not accompanied by hallucinations or delusions.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f301">
+</A>F30.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mania without psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Mood is elevated out of keeping with the patient's circumstances and may vary from carefree joviality to almost uncontrollable excitement. Elation is accompanied by increased energy, resulting in overactivity, pressure of speech, and a decreased need for sleep. Attention cannot be sustained, and there is often marked distractibility. Self-esteem is often inflated with grandiose ideas and overconfidence. Loss of normal social inhibitions may result in behaviour that is reckless, foolhardy, or inappropriate to the circumstances, and out of character.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f302">
+</A>F30.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mania with psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">In addition to the clinical picture described in F30.1, delusions (usually grandiose) or hallucinations (usually of voices speaking directly to the patient) are present, or the excitement, excessive motor activity, and flight of ideas are so extreme that the subject is incomprehensible or inaccessible to ordinary communication.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Mania with:
+<BR>&middot; mood-congruent psychotic symptoms
+<BR>&middot; mood-incongruent psychotic symptoms
+<BR>Manic stupor
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f308">
+</A>F30.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other manic episodes
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f309">
+</A>F30.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Manic episode, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Mania NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f31">
+</A>F31
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by two or more episodes in which the patient's mood and activity levels are significantly disturbed, this disturbance consisting on some occasions of an elevation of mood and increased energy and activity (hypomania or mania) and on others of a lowering of mood and decreased energy and activity (depression). Repeated episodes of hypomania or mania only are classified as bipolar.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">manic-depressive:
+<BR>&middot; illness
+<BR>&middot; psychosis
+<BR>&middot; reaction
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">bipolar disorder, single manic episode 
+<NOBR>(
+<A HREF="#f30">F30.-
+</A>)
+</NOBR>
+<BR>cyclothymia 
+<NOBR>(
+<A HREF="#f340">F34.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f310">
+</A>F31.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode hypomanic
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently hypomanic, and has had at least one other affective episode (hypomanic, manic, depressive, or mixed) in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f311">
+</A>F31.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode manic without psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently manic, without psychotic symptoms (as in F30.1), and has had at least one other affective episode (hypomanic, manic, depressive, or mixed) in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f312">
+</A>F31.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode manic with psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently manic, with psychotic symptoms (as in F30.2), and has had at least one other affective episode (hypomanic, manic, depressive, or mixed) in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f313">
+</A>F31.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode mild or moderate depression
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently depressed, as in a depressive episode of either mild or moderate severity (F32.0 or F32.1), and has had at least one authenticated hypomanic, manic, or mixed affective episode in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f314">
+</A>F31.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode severe depression without psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently depressed, as in severe depressive episode without psychotic symptoms (F32.2), and has had at least one authenticated hypomanic, manic, or mixed affective episode in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f315">
+</A>F31.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode severe depression with psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient is currently depressed, as in severe depressive episode with psychotic symptoms (F32.3), and has had at least one authenticated hypomanic, manic, or mixed affective episode in the past.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f316">
+</A>F31.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, current episode mixed
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient has had at least one authenticated hypomanic, manic, depressive, or mixed affective episode in the past, and currently exhibits either a mixture or a rapid alteration of manic and depressive symptoms.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">single mixed affective episode 
+<NOBR>(
+<A HREF="#f380">F38.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f317">
+</A>F31.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, currently in remission
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient has had at least one authenticated hypomanic, manic, or mixed affective episode in the past, and at least one other affective episode (hypomanic, manic, depressive, or mixed) in addition, but is not currently suffering from any significant mood disturbance, and has not done so for several months. Periods of remission during prophylactic treatment should be coded here.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f318">
+</A>F31.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other bipolar affective disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Bipolar II disorder
+<BR>Recurrent manic episodes NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f319">
+</A>F31.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bipolar affective disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f32">
+</A>F32
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Depressive episode
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">In typical mild, moderate, or severe depressive episodes, the patient suffers from lowering of mood, reduction of energy, and decrease in activity. Capacity for enjoyment, interest, and concentration is reduced, and marked tiredness after even minimum effort is common. Sleep is usually disturbed and appetite diminished. Self-esteem and self-confidence are almost always reduced and, even in the mild form, some ideas of guilt or worthlessness are often present. The lowered mood varies little from day to day, is unresponsive to circumstances and may be accompanied by so-called "somatic" symptoms, such as loss of interest and pleasurable feelings, waking in the morning several hours before the usual time, depression worst in the morning, marked psychomotor retardation, agitation, loss of appetite, weight loss, and loss of libido. Depending upon the number and severity of the symptoms, a depressive episode may be specified as mild, moderate or severe.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">single episodes of:
+<BR>&middot; depressive reaction
+<BR>&middot; psychogenic depression
+<BR>&middot; reactive depression
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">adjustment disorder 
+<NOBR>(
+<A HREF="gf40.htm#f432">F43.2
+</A>)
+</NOBR>
+<BR>recurrent depressive disorder 
+<NOBR>(
+<A HREF="#f33">F33.-
+</A>)
+</NOBR>
+<BR>when associated with conduct disorders in F91.- 
+<NOBR>(
+<A HREF="gf90.htm#f920">F92.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f320">
+</A>F32.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mild depressive episode
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Two or three of the above symptoms are usually present. The patient is usually distressed by these but will probably be able to continue with most activities.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f321">
+</A>F32.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Moderate depressive episode
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Four or more of the above symptoms are usually present and the patient is likely to have great difficulty in continuing with ordinary activities.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f322">
+</A>F32.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Severe depressive episode without psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">An episode of depression in which several of the above symptoms are marked and distressing, typically loss of self-esteem and ideas of worthlessness or guilt. Suicidal thoughts and acts are common and a number of "somatic" symptoms are usually present.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Agitated depression
+<BR>Major depression
+<BR>Vital depression
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">single episode without psychotic symptoms
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f323">
+</A>F32.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Severe depressive episode with psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">An episode of depression as described in F32.2, but with the presence of hallucinations, delusions, psychomotor retardation, or stupor so severe that ordinary social activities are impossible; there may be danger to life from suicide, dehydration, or starvation. The hallucinations and delusions may or may not be mood-congruent.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Single episodes of:
+<BR>&middot; major depression with psychotic symptoms
+<BR>&middot; psychogenic depressive psychosis
+<BR>&middot; psychotic depression
+<BR>&middot; reactive depressive psychosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f328">
+</A>F32.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other depressive episodes
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Atypical depression
+<BR>Single episodes of "masked" depression NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f329">
+</A>F32.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Depressive episode, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Depression NOS
+<BR>Depressive disorder NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f33">
+</A>F33
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by repeated episodes of depression as described for depressive episode (F32.-), without any history of independent episodes of mood elevation and increased energy (mania). There may, however, be brief episodes of mild mood elevation and overactivity (hypomania) immediately after a depressive episode, sometimes precipitated by antidepressant treatment. The more severe forms of recurrent depressive disorder (F33.2 and F33.3) have much in common with earlier concepts such as manic-depressive depression, melancholia, vital depression and endogenous depression. The first episode may occur at any age from childhood to old age, the onset may be either acute or insidious, and the duration varies from a few weeks to many months. The risk that a patient with recurrent depressive disorder will have an episode of mania never disappears completely, however many depressive episodes have been experienced. If such an episode does occur, the diagnosis should be changed to bipolar affective disorder (F31.-).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">recurrent episodes of:
+<BR>&middot; depressive reaction
+<BR>&middot; psychogenic depression
+<BR>&middot; reactive depression
+<BR>seasonal depressive disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">recurrent brief depressive episodes 
+<NOBR>(
+<A HREF="#f381">F38.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f330">
+</A>F33.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, current episode mild
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by repeated episodes of depression, the current episode being mild, as in F32.0, and without any history of mania.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f331">
+</A>F33.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, current episode moderate
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by repeated episodes of depression, the current episode being of moderate severity, as in F32.1, and without any history of mania.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f332">
+</A>F33.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, current episode severe without psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by repeated episodes of depression, the current episode being severe without psychotic symptoms, as in F32.2, and without any history of mania.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Endogenous depression without psychotic symptoms
+<BR>Major depression, recurrent without psychotic symptoms
+<BR>Manic-depressive psychosis, depressed type without psychotic symptoms
+<BR>Vital depression, recurrent without psychotic symptoms
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f333">
+</A>F33.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, current episode severe with psychotic symptoms
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by repeated episodes of depression, the current episode being severe with psychotic symptoms, as in F32.3, and with no previous episodes of mania.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Endogenous depression with psychotic symptoms
+<BR>Manic-depressive psychosis, depressed type with psychotic symptoms
+<BR>Recurrent severe episodes of:
+<BR>&middot; major depression with psychotic symptoms
+<BR>&middot; psychogenic depressive psychosis
+<BR>&middot; psychotic depression
+<BR>&middot; reactive depressive psychosis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f334">
+</A>F33.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, currently in remission
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The patient has had two or more depressive episodes as described in F33.0-F33.3, in the past, but has been free from depressive symptoms for several months.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f338">
+</A>F33.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other recurrent depressive disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f339">
+</A>F33.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Recurrent depressive disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Monopolar depression NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f34">
+</A>F34
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Persistent mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Persistent and usually fluctuating disorders of mood in which the majority of the individual episodes are not sufficiently severe to warrant being described as hypomanic or mild depressive episodes. Because they last for many years, and sometimes for the greater part of the patient's adult life, they involve considerable distress and disability. In some instances, recurrent or single manic or depressive episodes may become superimposed on a persistent affective disorder.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f340">
+</A>F34.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Cyclothymia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A persistent instability of mood involving numerous periods of depression and mild elation, none of which is sufficiently severe or prolonged to justify a diagnosis of bipolar affective disorder (F31.-) or recurrent depressive disorder (F33.-). This disorder is frequently found in the relatives of patients with bipolar affective disorder. Some patients with cyclothymia eventually develop bipolar affective disorder.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Affective personality disorder
+<BR>Cycloid personality
+<BR>Cyclothymic personality
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f341">
+</A>F34.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Dysthymia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A chronic depression of mood, lasting at least several years, which is not sufficiently severe, or in which individual episodes are not sufficiently prolonged, to justify a diagnosis of severe, moderate, or mild recurrent depressive disorder (F33.-).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Depressive:
+<BR>&middot; neurosis
+<BR>&middot; personality disorder
+<BR>Neurotic depression
+<BR>Persistent anxiety depression
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">anxiety depression (mild or not persistent) 
+<NOBR>(
+<A HREF="gf40.htm#f412">F41.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f348">
+</A>F34.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other persistent mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f349">
+</A>F34.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Persistent mood [affective] disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f38">
+</A>F38
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Any other mood disorders that do not justify classification to F30-F34, because they are not of sufficient severity or duration.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f380">
+</A>F38.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other single mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Mixed affective episode
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f381">
+</A>F38.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other recurrent mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Recurrent brief depressive episodes
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f388">
+</A>F38.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other specified mood [affective] disorders
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f39">
+</A>F39
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified mood [affective] disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Affective psychosis NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

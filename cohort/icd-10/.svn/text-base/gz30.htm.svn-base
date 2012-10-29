@@ -1,0 +1,1660 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block Z30-Z39
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XXI">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kz00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kz00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gz20.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gz40.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gz30.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XXI
+<BR>
+<HR>Factors influencing health status and contact with health services
+<BR>(Z00-Z99)
+</H1>
+<H2>Persons encountering health services in circumstances related to reproduction
+<BR>(Z30-Z39)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z30">
+</A>Z30
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contraceptive management
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z300">
+</A>Z30.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>General counselling and advice on contraception
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Family planning advice NOS
+<BR>Initial prescription of contraceptives
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z301">
+</A>Z30.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Insertion of (intrauterine) contraceptive device
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z302">
+</A>Z30.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Sterilization
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Admission for interruption of fallopian tubes or vasa deferentia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z303">
+</A>Z30.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Menstrual extraction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Interception of pregnancy
+<BR>Menstrual regulation
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z304">
+</A>Z30.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Surveillance of contraceptive drugs
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Repeat prescription for contraceptive pill or other contraceptive drugs
+<BR>Routine examination for contraceptive maintenance
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z305">
+</A>Z30.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Surveillance of (intrauterine) contraceptive device
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Checking, reinsertion or removal of (intrauterine) contraceptive device
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z308">
+</A>Z30.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other contraceptive management
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Postvasectomy sperm count
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z309">
+</A>Z30.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contraceptive management, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z31">
+</A>Z31
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Procreative management
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">complications associated with artificial fertilization 
+<NOBR>(
+<A HREF="gn80.htm#n98">N98.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z310">
+</A>Z31.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Tuboplasty or vasoplasty after previous sterilization
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z311">
+</A>Z31.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Artificial insemination
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z312">
+</A>Z31.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>
+<STRONG>
+<EM>In vitro
+</EM>
+</STRONG> fertilization
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Admission for harvesting or implantation of ova
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z313">
+</A>Z31.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other assisted fertilization methods
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z314">
+</A>Z31.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Procreative investigation and testing
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Fallopian insufflation
+<BR>Sperm count
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">postvasectomy sperm count 
+<NOBR>(
+<A HREF="#z308">Z30.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z315">
+</A>Z31.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Genetic counselling
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z316">
+</A>Z31.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>General counselling and advice on procreation
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z318">
+</A>Z31.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other procreative management
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z319">
+</A>Z31.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Procreative management, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z32">
+</A>Z32
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Pregnancy examination and test
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z320">
+</A>Z32.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Pregnancy, not (yet) confirmed
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z321">
+</A>Z32.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Pregnancy confirmed
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z33">
+</A>Z33
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Pregnant state, incidental
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Pregnant state NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z34">
+</A>Z34
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of normal pregnancy
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z340">
+</A>Z34.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of normal first pregnancy
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z348">
+</A>Z34.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of other normal pregnancy
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z349">
+</A>Z34.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of normal pregnancy, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z35">
+</A>Z35
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of high-risk pregnancy
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z350">
+</A>Z35.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of pregnancy with history of infertility
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z351">
+</A>Z35.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of pregnancy with history of abortive outcome
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Supervision of pregnancy with history of:
+<BR>&middot; hydatidiform mole
+<BR>&middot; vesicular mole
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">habitual aborter:
+<BR>&middot; care during pregnancy 
+<NOBR>(
+<A HREF="go20.htm#o262">O26.2
+</A>)
+</NOBR>
+<BR>&middot; without current pregnancy 
+<NOBR>(
+<A HREF="gn80.htm#n96">N96
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z352">
+</A>Z35.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of pregnancy with other poor reproductive or obstetric history
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Supervision of pregnancy with history of:
+<BR>&middot; conditions classifiable to O10-O92
+<BR>&middot; neonatal death
+<BR>&middot; stillbirth
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z353">
+</A>Z35.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of pregnancy with history of insufficient antenatal care
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Pregnancy:
+<BR>&middot; concealed
+<BR>&middot; hidden
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z354">
+</A>Z35.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of pregnancy with grand multiparity
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">multiparity without current pregnancy 
+<NOBR>(
+<A HREF="gz55.htm#z641">Z64.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z355">
+</A>Z35.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of elderly primigravida
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z356">
+</A>Z35.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of very young primigravida
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z357">
+</A>Z35.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of high-risk pregnancy due to social problems
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z358">
+</A>Z35.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of other high-risk pregnancies
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z359">
+</A>Z35.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Supervision of high-risk pregnancy, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z36">
+</A>Z36
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">abnormal findings on antenatal screening of mother 
+<NOBR>(
+<A HREF="go20.htm#o28">O28.-
+</A>)
+</NOBR>
+<BR>routine prenatal care 
+<NOBR>(
+<A HREF="#z34">Z34-Z35
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z360">
+</A>Z36.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening for chromosomal anomalies
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Amniocentesis
+<BR>Placental sample (taken vaginally)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z361">
+</A>Z36.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening for raised alphafetoprotein level
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z362">
+</A>Z36.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other antenatal screening based on amniocentesis
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z363">
+</A>Z36.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening for malformations using ultrasound and other physical methods
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z364">
+</A>Z36.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening for fetal growth retardation using ultrasound and other physical methods
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z365">
+</A>Z36.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening for isoimmunization
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z368">
+</A>Z36.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other antenatal screening
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Screening for haemoglobinopathy
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z369">
+</A>Z36.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Antenatal screening, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z37">
+</A>Z37
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Outcome of delivery
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Note:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">This category is intended for use as an additional code to identify the outcome of delivery on the mother's record.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z370">
+</A>Z37.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Single live birth
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z371">
+</A>Z37.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Single stillbirth
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z372">
+</A>Z37.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twins, both liveborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z373">
+</A>Z37.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twins, one liveborn and one stillborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z374">
+</A>Z37.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twins, both stillborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z375">
+</A>Z37.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple births, all liveborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z376">
+</A>Z37.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple births, some liveborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z377">
+</A>Z37.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple births, all stillborn
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z379">
+</A>Z37.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Outcome of delivery, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Multiple birth NOS
+<BR>Single birth NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z38">
+</A>Z38
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Liveborn infants according to place of birth
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z380">
+</A>Z38.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Singleton, born in hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z381">
+</A>Z38.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Singleton, born outside hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z382">
+</A>Z38.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Singleton, unspecified as to place of birth
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Liveborn infant NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z383">
+</A>Z38.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twin, born in hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z384">
+</A>Z38.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twin, born outside hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z385">
+</A>Z38.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Twin, unspecified as to place of birth
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z386">
+</A>Z38.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple, born in hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z387">
+</A>Z38.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple, born outside hospital
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z388">
+</A>Z38.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other multiple, unspecified as to place of birth
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="z39">
+</A>Z39
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Postpartum care and examination
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z390">
+</A>Z39.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Care and examination immediately after delivery
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Care and observation in uncomplicated cases
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">care for postpartum complications - see Alphabetical Index
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z391">
+</A>Z39.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Care and examination of lactating mother
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Supervision of lactation
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">disorders of lactation 
+<NOBR>(
+<A HREF="go85.htm#o92">O92.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="z392">
+</A>Z39.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Routine postpartum follow-up
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

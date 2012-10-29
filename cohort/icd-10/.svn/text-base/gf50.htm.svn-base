@@ -1,0 +1,1504 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block F50-F59
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter V">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf40.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf60.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gf50.htm',window.location.hash.substring(1))">
+
+<H1>Chapter V
+<BR>
+<HR>Mental and behavioural disorders
+<BR>(F00-F99)
+</H1>
+<H2>Behavioural syndromes associated with physiological disturbances and physical factors
+<BR>(F50-F59)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f50">
+</A>F50
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Eating disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">anorexia NOS 
+<NOBR>(
+<A HREF="gr50.htm#r630">R63.0
+</A>)
+</NOBR>
+<BR>feeding:
+<BR>&middot; difficulties and mismanagement 
+<NOBR>(
+<A HREF="gr50.htm#r633">R63.3
+</A>)
+</NOBR>
+<BR>&middot; disorder of infancy or childhood 
+<NOBR>(
+<A HREF="gf90.htm#f982">F98.2
+</A>)
+</NOBR>
+<BR>polyphagia 
+<NOBR>(
+<A HREF="gr50.htm#r632">R63.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f500">
+</A>F50.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Anorexia nervosa
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A disorder characterized by deliberate weight loss, induced and sustained by the patient. It occurs most commonly in adolescent girls and young women, but adolescent boys and young men may also be affected, as may children approaching puberty and older women up to the menopause. The disorder is associated with a specific psychopathology whereby a dread of fatness and flabbiness of body contour persists as an intrusive overvalued idea, and the patients impose a low weight threshold on themselves. There is usually undernutrition of varying severity with secondary endocrine and metabolic changes and disturbances of bodily function. The symptoms include restricted dietary choice, excessive exercise, induced vomiting and purgation, and use of appetite suppressants and diuretics.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">loss of appetite 
+<NOBR>(
+<A HREF="gr50.htm#r630">R63.0
+</A>)
+</NOBR>
+<BR>&middot; psychogenic 
+<NOBR>(
+<A HREF="#f508">F50.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f501">
+</A>F50.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Atypical anorexia nervosa
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Disorders that fulfil some of the features of anorexia nervosa but in which the overall clinical picture does not justify that diagnosis. For instance, one of the key symptoms, such as amenorrhoea or marked dread of being fat, may be absent in the presence of marked weight loss and weight-reducing behaviour. This diagnosis should not be made in the presence of known physical disorders associated with weight loss.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f502">
+</A>F50.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bulimia nervosa
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A syndrome characterized by repeated bouts of overeating and an excessive preoccupation with the control of body weight, leading to a pattern of overeating followed by vomiting or use of purgatives. This disorder shares many psychological features with anorexia nervosa, including an overconcern with body shape and weight. Repeated vomiting is likely to give rise to disturbances of body electrolytes and physical complications. There is often, but not always, a history of an earlier episode of anorexia nervosa, the interval ranging from a few months to several years.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Bulimia NOS
+<BR>Hyperorexia nervosa
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f503">
+</A>F50.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Atypical bulimia nervosa
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Disorders that fulfil some of the features of bulimia nervosa, but in which the overall clinical picture does not justify that diagnosis. For instance, there may be recurrent bouts of overeating and overuse of purgatives without significant weight change, or the typical overconcern about body shape and weight may be absent.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f504">
+</A>F50.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Overeating associated with other psychological disturbances
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Overeating due to stressful events, such as bereavement, accident, childbirth, etc.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic overeating
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">obesity 
+<NOBR>(
+<A HREF="ge65.htm#e66">E66.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f505">
+</A>F50.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Vomiting associated with other psychological disturbances
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Repeated vomiting that occurs in dissociative disorders (F44.-) and hypochondriacal disorder (F45.2), and that is not solely due to conditions classified outside this chapter. This subcategory may also be used in addition to O21.- (excessive vomiting in pregnancy) when emotional factors are predominant in the causation of recurrent nausea and vomiting in pregnancy.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic vomiting
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">nausea 
+<NOBR>(
+<A HREF="gr10.htm#r11">R11
+</A>)
+</NOBR>
+<BR>vomiting NOS 
+<NOBR>(
+<A HREF="gr10.htm#r11">R11
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f508">
+</A>F50.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other eating disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Pica in adults
+<BR>Psychogenic loss of appetite
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">pica of infancy and childhood 
+<NOBR>(
+<A HREF="gf90.htm#f983">F98.3
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f509">
+</A>F50.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Eating disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f51">
+</A>F51
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic sleep disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">In many cases, a disturbance of sleep is one of the symptoms of another disorder, either mental or physical. Whether a sleep disorder in a given patient is an independent condition or simply one of the features of another disorder classified elsewhere, either in this chapter or in others, should be determined on the basis of its clinical presentation and course as well as on the therapeutic considerations and priorities at the time of the consultation. Generally, if the sleep disorder is one of the major complaints and is perceived as a condition in itself, the present code should be used along with other pertinent diagnoses describing the psychopathology and pathophysiology involved in a given case. This category includes only those sleep disorders in which emotional causes are considered to be a primary factor, and which are not due to identifiable physical disorders classified elsewhere.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">sleep disorders (organic) 
+<NOBR>(
+<A HREF="gg40.htm#g47">G47.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f510">
+</A>F51.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic insomnia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A condition of unsatisfactory quantity and/or quality of sleep, which persists for a considerable period of time, including difficulty falling asleep, difficulty staying asleep, or early final wakening. Insomnia is a common symptom of many mental and physical disorders, and should be classified here in addition to the basic disorder only if it dominates the clinical picture.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">insomnia (organic) 
+<NOBR>(
+<A HREF="gg40.htm#g470">G47.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f511">
+</A>F51.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic hypersomnia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Hypersomnia is defined as a condition of either excessive daytime sleepiness and sleep attacks (not accounted for by an inadequate amount of sleep) or prolonged transition to the fully aroused state upon awakening. In the absence of an organic factor for the occurrence of hypersomnia, this condition is usually associated with mental disorders.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">hypersomnia (organic) 
+<NOBR>(
+<A HREF="gg40.htm#g471">G47.1
+</A>)
+</NOBR>
+<BR>narcolepsy 
+<NOBR>(
+<A HREF="gg40.htm#g474">G47.4
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f512">
+</A>F51.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic disorder of the sleep-wake schedule
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A lack of synchrony between the sleep-wake schedule and the desired sleep-wake schedule for the individual's environment, resulting in a complaint of either insomnia or hypersomnia.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic inversion of:
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">&middot; circadian
+<BR>&middot; nyctohemeral
+<BR>&middot; sleep
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">rhythm
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">disorders of the sleep-wake schedule (organic) 
+<NOBR>(
+<A HREF="gg40.htm#g472">G47.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f513">
+</A>F51.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Sleepwalking [somnambulism]
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A state of altered consciousness in which phenomena of sleep and wakefulness are combined. During a sleepwalking episode the individual arises from bed, usually during the first third of nocturnal sleep, and walks about, exhibiting low levels of awareness, reactivity, and motor skill. Upon awakening, there is usually no recall of the event.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f514">
+</A>F51.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Sleep terrors [night terrors]
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Nocturnal episodes of extreme terror and panic associated with intense vocalization, motility, and high levels of autonomic discharge. The individual sits up or gets up, usually during the first third of nocturnal sleep, with a panicky scream. Quite often he or she rushes to the door as if trying to escape, although very seldom leaves the room. Recall of the event, if any, is very limited (usually to one or two fragmentary mental images).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f515">
+</A>F51.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nightmares
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dream experiences loaded with anxiety or fear. There is very detailed recall of the dream content. The dream experience is very vivid and usually includes themes involving threats to survival, security, or self-esteem. Quite often there is a recurrence of the same or similar frightening nightmare themes. During a typical episode there is a degree of autonomic discharge but no appreciable vocalization or body motility. Upon awakening the individual rapidly becomes alert and oriented.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dream anxiety disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f518">
+</A>F51.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other nonorganic sleep disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f519">
+</A>F51.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic sleep disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Emotional sleep disorder NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f52">
+</A>F52
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Sexual dysfunction, not caused by organic disorder or disease
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Sexual dysfunction covers the various ways in which an individual is unable to participate in a sexual relationship as he or she would wish. Sexual response is a psychosomatic process and both psychological and somatic processes are usually involved in the causation of sexual dysfunction.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">Dhat syndrome 
+<NOBR>(
+<A HREF="gf40.htm#f488">F48.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f520">
+</A>F52.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Lack or loss of sexual desire
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Loss of sexual desire is the principal problem and is not secondary to other sexual difficulties, such as erectile failure or dyspareunia.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Frigidity
+<BR>Hypoactive sexual desire disorder
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f521">
+</A>F52.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Sexual aversion and lack of sexual enjoyment
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Either the prospect of sexual interaction produces sufficient fear or anxiety that sexual activity is avoided (sexual aversion) or sexual responses occur normally and orgasm is experienced but there is a lack of appropriate pleasure (lack of sexual enjoyment).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Anhedonia (sexual)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f522">
+</A>F52.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Failure of genital response
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The principal problem in men is erectile dysfunction (difficulty in developing or maintaining an erection suitable for satisfactory intercourse). In women, the principal problem is vaginal dryness or failure of lubrication.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Female sexual arousal disorder
+<BR>Male erectile disorder
+<BR>Psychogenic impotence
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">impotence of organic origin 
+<NOBR>(
+<A HREF="gn40.htm#n484">N48.4
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f523">
+</A>F52.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Orgasmic dysfunction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Orgasm either does not occur or is markedly delayed.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Inhibited orgasm (male)(female)
+<BR>Psychogenic anorgasmy
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f524">
+</A>F52.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Premature ejaculation
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">The inability to control ejaculation sufficiently for both partners to enjoy sexual interaction.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f525">
+</A>F52.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic vaginismus
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Spasm of the pelvic floor muscles that surround the vagina, causing occlusion of the vaginal opening. Penile entry is either impossible or painful.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic vaginismus
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">vaginismus (organic) 
+<NOBR>(
+<A HREF="gn80.htm#n942">N94.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f526">
+</A>F52.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Nonorganic dyspareunia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Dyspareunia (or pain during sexual intercourse) occurs in both women and men. It can often be attributed to local pathology and should then properly be categorized under the pathological condition. This category is to be used only if there is no primary nonorganic sexual dysfunction (e.g. vaginismus or vaginal dryness).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic dyspareunia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">dyspareunia (organic) 
+<NOBR>(
+<A HREF="gn80.htm#n941">N94.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f527">
+</A>F52.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Excessive sexual drive
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Nymphomania
+<BR>Satyriasis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f528">
+</A>F52.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other sexual dysfunction, not caused by organic disorder or disease
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f529">
+</A>F52.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified sexual dysfunction, not caused by organic disorder or disease
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f53">
+</A>F53
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders associated with the puerperium, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">This category includes only mental disorders associated with the puerperium (commencing within six weeks of delivery) that do not meet the criteria for disorders classified elsewhere in this chapter, either because insufficient information is available, or because it is considered that special additional clinical features are present that make their classification elsewhere inappropriate.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f530">
+</A>F53.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mild mental and behavioural disorders associated with the puerperium, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Depression:
+<BR>&middot; postnatal NOS
+<BR>&middot; postpartum NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f531">
+</A>F53.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Severe mental and behavioural disorders associated with the puerperium, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Puerperal psychosis NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f538">
+</A>F53.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other mental and behavioural disorders associated with the puerperium, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="f539">
+</A>F53.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Puerperal mental disorder, unspecified
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f54">
+</A>F54
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Psychological and behavioural factors associated with disorders or diseases classified elsewhere
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">This category should be used to record the presence of psychological or behavioural influences thought to have played a major part in the etiology of physical disorders which can be classified to other chapters. Any resulting mental disturbances are usually mild, and often prolonged (such as worry, emotional conflict, apprehension) and do not of themselves justify the use of any of the categories in this chapter.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychological factors affecting physical conditions
+<BR>Examples of the use of this category are:
+<BR>&middot; asthma F54 and J45.-
+<BR>&middot; dermatitis F54 and L23-L25
+<BR>&middot; gastric ulcer F54 and K25.-
+<BR>&middot; mucous colitis F54 and K58.-
+<BR>&middot; ulcerative colitis F54 and K51.-
+<BR>&middot; urticaria F54 and L50.-
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Use additional code, if desired, to identify the associated physical disorder.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">tension-type headache 
+<NOBR>(
+<A HREF="gg40.htm#g442">G44.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f55">
+</A>F55
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Abuse of non-dependence-producing substances
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">A wide variety of medicaments and folk remedies may be involved, but the particularly important groups are: (a) psychotropic drugs that do not produce dependence, such as antidepressants, (b) laxatives, and (c) analgesics that may be purchased without medical prescription, such as aspirin and paracetamol.
+<P>
+</P>Persistent use of these substances often involves unnecessary contacts with medical professionals or supporting staff, and is sometimes accompanied by harmful physical effects of the substances. Attempts to dissuade or forbid the use of the substance are often met with resistance; for laxatives and analgesics this may be in spite of warnings about (or even the development of) physical harm such as renal dysfunction or electrolyte disturbances. Although it is usually clear that the patient has a strong motivation to take the substance, dependence or withdrawal symptoms do not develop as in the case of the psychoactive substances specified in F10-F19.
+<P>
+</P>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Abuse of:
+<BR>&middot; antacids
+<BR>&middot; herbal or folk remedies
+<BR>&middot; steroids or hormones
+<BR>&middot; vitamins
+<BR>Laxative habit
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">abuse of psychoactive substances 
+<NOBR>(
+<A HREF="gf10.htm#f10">F10-F19
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f59">
+</A>F59
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified behavioural syndromes associated with physiological disturbances and physical factors
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Psychogenic physiological dysfunction NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

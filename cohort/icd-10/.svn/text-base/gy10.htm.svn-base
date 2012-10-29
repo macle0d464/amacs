@@ -1,0 +1,1623 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block Y10-Y34
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XX">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kv01.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kv01.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gx85.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gy35.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gy10.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XX
+<BR>
+<HR>External causes of morbidity and mortality
+<BR>(V01-Y98)
+</H1>
+<H2>Event of undetermined intent
+<BR>(Y10-Y34)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">[See at the beginning of this chapter for fourth-character subdivisions]
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Note:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">This section covers events where available information is insufficient to enable a medical or legal authority to make a distinction between accident, self-harm and assault. It includes self-inflicted injuries, but not poisoning, when not specified whether accidental or with intent to harm.
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y10">
+</A>Y10
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to nonopioid analgesics, antipyretics and antirheumatics, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">4-aminophenol derivatives
+<BR>nonsteroidal anti-inflammatory drugs [NSAID]
+<BR>pyrazolone derivatives
+<BR>salicylates
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y11">
+</A>Y11
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to antiepileptic, sedative-hypnotic, antiparkinsonism and psychotropic drugs, not elsewhere classified, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">antidepressants
+<BR>barbiturates
+<BR>hydantoin derivatives
+<BR>iminostilbenes
+<BR>methaqualone compounds
+<BR>neuroleptics
+<BR>psychostimulants
+<BR>succinimides and oxazolidinediones
+<BR>tranquillizers
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y12">
+</A>Y12
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to narcotics and psychodysleptics [hallucinogens], not elsewhere classified, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">cannabis (derivatives)
+<BR>cocaine
+<BR>codeine
+<BR>heroin
+<BR>lysergide [LSD]
+<BR>mescaline
+<BR>methadone
+<BR>morphine
+<BR>opium (alkaloids)
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y13">
+</A>Y13
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to other drugs acting on the autonomic nervous system, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">parasympatholytics [anticholinergics and antimuscarinics] and spasmolytics
+<BR>parasympathomimetics [cholinergics]
+<BR>sympatholytics [antiadrenergics]
+<BR>sympathomimetics [adrenergics]
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y14">
+</A>Y14
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to other and unspecified drugs, medicaments and biological substances, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">agents primarily acting on smooth and skeletal muscles and the respiratory system
+<BR>anaesthetics (general)(local)
+<BR>drugs affecting the:
+<BR>&middot; cardiovascular system
+<BR>&middot; gastrointestinal system
+<BR>hormones and synthetic substitutes
+<BR>systemic and haematological agents
+<BR>systemic antibiotics and other anti-infectives
+<BR>therapeutic gases
+<BR>topical preparations
+<BR>vaccines
+<BR>water-balance agents and drugs affecting mineral and uric acid metabolism
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y15">
+</A>Y15
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to alcohol, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">alcohol:
+<BR>&middot; NOS
+<BR>&middot; butyl [1-butanol]
+<BR>&middot; ethyl [ethanol]
+<BR>&middot; isopropyl [2-propanol]
+<BR>&middot; methyl [methanol]
+<BR>&middot; propyl [1-propanol]
+<BR>fusel oil
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y16">
+</A>Y16
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to organic solvents and halogenated hydrocarbons and their vapours, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">benzene and homologues
+<BR>carbon tetrachloride [tetrachloromethane]
+<BR>chlorofluorocarbons
+<BR>petroleum (derivatives)
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y17">
+</A>Y17
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to other gases and vapours, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">carbon monoxide
+<BR>lacrimogenic gas [tear gas]
+<BR>motor (vehicle) exhaust gas
+<BR>nitrogen oxides
+<BR>sulfur dioxide
+<BR>utility gas
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">metal fumes and vapours 
+<NOBR>(
+<A HREF="#y19">Y19.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y18">
+</A>Y18
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to pesticides, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">fumigants
+<BR>fungicides
+<BR>herbicides
+<BR>insecticides
+<BR>rodenticides
+<BR>wood preservatives
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">plant foods and fertilizers 
+<NOBR>(
+<A HREF="#y19">Y19.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y19">
+</A>Y19
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Poisoning by and exposure to other and unspecified chemicals and noxious substances, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">corrosive aromatics, acids and caustic alkalis
+<BR>glues and adhesives
+<BR>metals including fumes and vapours
+<BR>paints and dyes
+<BR>plant foods and fertilizers
+<BR>poisonous foodstuffs and poisonous plants
+<BR>soaps and detergents
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y20">
+</A>Y20
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Hanging, strangulation and suffocation, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y21">
+</A>Y21
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Drowning and submersion, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y22">
+</A>Y22
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Handgun discharge, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y23">
+</A>Y23
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Rifle, shotgun and larger firearm discharge, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y24">
+</A>Y24
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other and unspecified firearm discharge, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y25">
+</A>Y25
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contact with explosive material, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y26">
+</A>Y26
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Exposure to smoke, fire and flames, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y27">
+</A>Y27
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contact with steam, hot vapours and hot objects, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y28">
+</A>Y28
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contact with sharp object, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y29">
+</A>Y29
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Contact with blunt object, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y30">
+</A>Y30
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Falling, jumping or pushed from a high place, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">victim falling from one level to another, undetermined intent
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y31">
+</A>Y31
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Falling, lying or running before or into moving object, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y32">
+</A>Y32
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Crashing of motor vehicle, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y33">
+</A>Y33
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other specified events, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="y34">
+</A>Y34
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified event, undetermined intent
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('kv01.htm#s20w00')">[See pages 1013-1017 for fourth-character subdivisions]
+</A>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

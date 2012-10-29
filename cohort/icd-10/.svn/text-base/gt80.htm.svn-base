@@ -1,0 +1,3281 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block T80-T88
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XIX">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="ks00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="ks00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gt79.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gt90.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gt80.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XIX
+<BR>
+<HR>Injury, poisoning and certain other consequences of external causes
+<BR>(S00-T98)
+</H1>
+<H2>Complications of surgical and medical care, not elsewhere classified
+<BR>(T80-T88)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">Use additional external cause code (Chapter XX), if desired, to identify devices involved and details of circumstances.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">Use additional code (B95-B97), if desired, to identify infectious agent.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">adverse effects of drugs and medicaments 
+<NOBR>(
+<A HREF="ga00.htm#a00">A00-R99
+</A>, 
+<A HREF="gt66.htm#t78">T78.-
+</A>)
+</NOBR>
+<BR>any encounters with medical care for postoperative conditions in which no complications are present, such as:
+<BR>&middot; artificial opening status 
+<NOBR>(
+<A HREF="gz80.htm#z93">Z93.-
+</A>)
+</NOBR>
+<BR>&middot; closure of external stoma 
+<NOBR>(
+<A HREF="gz40.htm#z43">Z43.-
+</A>)
+</NOBR>
+<BR>&middot; fitting and adjustment of external prosthetic device 
+<NOBR>(
+<A HREF="gz40.htm#z44">Z44.-
+</A>)
+</NOBR>
+<BR>burns and corrosions from local applications and irradiation 
+<NOBR>(
+<A HREF="gt20.htm#t20">T20-T32
+</A>)
+</NOBR>
+<BR>complications of surgical procedures during pregnancy, childbirth and the puerperium 
+<NOBR>(
+<A HREF="go00.htm#o00">O00-O99
+</A>)
+</NOBR>
+<BR>poisoning and toxic effects of drugs and chemicals 
+<NOBR>(
+<A HREF="gt36.htm#t36">T36-T65
+</A>)
+</NOBR>
+<BR>specified complications classified elsewhere, such as:
+<BR>&middot; cerebrospinal fluid leak from spinal puncture 
+<NOBR>(
+<A HREF="gg90.htm#g970">G97.0
+</A>)
+</NOBR>
+<BR>&middot; colostomy malfunction 
+<NOBR>(
+<A HREF="gk90.htm#k914">K91.4
+</A>)
+</NOBR>
+<BR>&middot; disorders of fluid and electrolyte balance 
+<NOBR>(
+<A HREF="ge70.htm#e86">E86-E87
+</A>)
+</NOBR>
+<BR>&middot; functional disturbances following cardiac surgery 
+<NOBR>(
+<A HREF="gi95.htm#i970">I97.0-I97.1
+</A>)
+</NOBR>
+<BR>&middot; postgastric surgery syndromes 
+<NOBR>(
+<A HREF="gk90.htm#k911">K91.1
+</A>)
+</NOBR>
+<BR>&middot; postlaminectomy syndrome NEC 
+<NOBR>(
+<A HREF="gm95.htm#m961">M96.1
+</A>)
+</NOBR>
+<BR>&middot; postmastectomy lymphoedema syndrome 
+<NOBR>(
+<A HREF="gi95.htm#i972">I97.2
+</A>)
+</NOBR>
+<BR>&middot; postsurgical blind-loop syndrome 
+<NOBR>(
+<A HREF="gk90.htm#k912">K91.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t80">
+</A>T80
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">perfusion
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">bone-marrow transplant rejection 
+<NOBR>(
+<A HREF="#t860">T86.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t800">
+</A>T80.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Air embolism following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t801">
+</A>T80.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Vascular complications following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Phlebitis
+<BR>Thromboembolism
+<BR>Thrombophlebitis
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">following infusion, transfusion and therapeutic injection
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">the listed conditions when specified as:
+<BR>&middot; due to prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t828">T82.8
+</A>, 
+<A HREF="#t838">T83.8
+</A>, 
+<A HREF="#t848">T84.8
+</A>, 
+<A HREF="#t858">T85.8
+</A>)
+</NOBR>
+<BR>&middot; postprocedural 
+<NOBR>(
+<A HREF="#t817">T81.7
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t802">
+</A>T80.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infections following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Infection
+<BR>Sepsis
+<BR>Septicaemia
+<BR>Septic shock
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">following infusion, transfusion and therapeutic injection
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">the listed conditions when specified as:
+<BR>&middot; due to prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t826">T82.6-T82.7
+</A>, 
+<A HREF="#t835">T83.5-T83.6
+</A>, 
+<A HREF="#t845">T84.5-T84.7
+</A>, 
+<A HREF="#t857">T85.7
+</A>)
+</NOBR>
+<BR>&middot; postprocedural 
+<NOBR>(
+<A HREF="#t814">T81.4
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t803">
+</A>T80.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>ABO incompatibility reaction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Incompatible blood transfusion
+<BR>Reaction to blood-group incompatibility in infusion or transfusion
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t804">
+</A>T80.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Rh incompatibility reaction
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Reaction due to Rh factor in infusion or transfusion
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t805">
+</A>T80.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Anaphylactic shock due to serum
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">shock:
+<BR>&middot; allergic NOS 
+<NOBR>(
+<A HREF="gt66.htm#t782">T78.2
+</A>)
+</NOBR>
+<BR>&middot; anaphylactic:
+<BR>&nbsp;&nbsp;&middot; NOS 
+<NOBR>(
+<A HREF="gt66.htm#t782">T78.2
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&middot; due to adverse effect of correct medicinal substance properly administered 
+<NOBR>(
+<A HREF="#t886">T88.6
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t806">
+</A>T80.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other serum reactions
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Intoxication by serum
+<BR>Protein sickness
+<BR>Serum:
+<BR>&middot; rash
+<BR>&middot; sickness
+<BR>&middot; urticaria
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">serum hepatitis 
+<NOBR>(
+<A HREF="gb15.htm#b16">B16.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t808">
+</A>T80.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t809">
+</A>T80.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication following infusion, transfusion and therapeutic injection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Transfusion reaction NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t81">
+</A>T81
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of procedures, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">adverse effect of drug NOS 
+<NOBR>(
+<A HREF="#t887">T88.7
+</A>)
+</NOBR>
+<BR>complication following:
+<BR>&middot; immunization 
+<NOBR>(
+<A HREF="#t880">T88.0-T88.1
+</A>)
+</NOBR>
+<BR>&middot; infusion, transfusion and therapeutic injection 
+<NOBR>(
+<A HREF="#t80">T80.-
+</A>)
+</NOBR>
+<BR>specified complications classified elsewhere, such as:
+<BR>&middot; complications of prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t82">T82-T85
+</A>)
+</NOBR>
+<BR>&middot; dermatitis due to drugs and medicaments 
+<NOBR>(
+<A HREF="gl20.htm#l233">L23.3
+</A>, 
+<A HREF="gl20.htm#l244">L24.4
+</A>, 
+<A HREF="gl20.htm#l251">L25.1
+</A>, 
+<A HREF="gl20.htm#l270">L27.0-L27.1
+</A>)
+</NOBR>
+<BR>&middot; poisoning and toxic effects of drugs and chemicals 
+<NOBR>(
+<A HREF="gt36.htm#t36">T36-T65
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t810">
+</A>T81.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Haemorrhage and haematoma complicating a procedure, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Haemorrhage at any site resulting from a procedure
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">haematoma of obstetric wound 
+<NOBR>(
+<A HREF="go85.htm#o902">O90.2
+</A>)
+</NOBR>
+<BR>haemorrhage due to prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t828">T82.8
+</A>, 
+<A HREF="#t838">T83.8
+</A>, 
+<A HREF="#t848">T84.8
+</A>, 
+<A HREF="#t858">T85.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t811">
+</A>T81.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Shock during or resulting from a procedure, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Collapse NOS
+<BR>Shock (endotoxic)(hypovolaemic)(septic)
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">during or following a procedure
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Postoperative shock NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">shock:
+<BR>&middot; anaesthetic 
+<NOBR>(
+<A HREF="#t882">T88.2
+</A>)
+</NOBR>
+<BR>&middot; anaphylactic:
+<BR>&nbsp;&nbsp;&middot; NOS 
+<NOBR>(
+<A HREF="gt66.htm#t782">T78.2
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&middot; due to:
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&middot; correct medicinal substance properly administered 
+<NOBR>(
+<A HREF="#t886">T88.6
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&middot; serum 
+<NOBR>(
+<A HREF="#t805">T80.5
+</A>)
+</NOBR>
+<BR>&middot; electric 
+<NOBR>(
+<A HREF="gt66.htm#t754">T75.4
+</A>)
+</NOBR>
+<BR>&middot; following abortion or ectopic or molar pregnancy 
+<NOBR>(
+<A HREF="go00.htm#o00">O00-O07
+</A>, 
+<A HREF="go00.htm#o083">O08.3
+</A>)
+</NOBR>
+<BR>&middot; obstetric 
+<NOBR>(
+<A HREF="go60.htm#o751">O75.1
+</A>)
+</NOBR>
+<BR>&middot; traumatic 
+<NOBR>(
+<A HREF="gt79.htm#t794">T79.4
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t812">
+</A>T81.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Accidental puncture and laceration during a procedure, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Accidental perforation of:
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">&middot; blood vessel
+<BR>&middot; nerve
+<BR>&middot; organ
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">by
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">{
+<BR>{
+<BR>{
+<BR>{
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">catheter
+<BR>endoscope
+<BR>instrument
+<BR>probe
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">during a procedure
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">damage from instruments during delivery 
+<NOBR>(
+<A HREF="go60.htm#o70">O70-O71
+</A>)
+</NOBR>
+<BR>perforation, puncture or laceration caused by device or implant intentionally left in operation wound 
+<NOBR>(
+<A HREF="#t82">T82-T85
+</A>)
+</NOBR>
+<BR>specified complications classified elsewhere, such as broad ligament laceration syndrome [Allen-Masters] 
+<NOBR>(
+<A HREF="gn80.htm#n838">N83.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t813">
+</A>T81.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Disruption of operation wound, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Dehiscence
+<BR>Rupture
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">of operation wound
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">disruption of:
+<BR>&middot; caesarean-section wound 
+<NOBR>(
+<A HREF="go85.htm#o900">O90.0
+</A>)
+</NOBR>
+<BR>&middot; perineal obstetric wound 
+<NOBR>(
+<A HREF="go85.htm#o901">O90.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t814">
+</A>T81.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection following a procedure, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Abscess:
+<BR>&middot; intra-abdominal
+<BR>&middot; stitch
+<BR>&middot; subphrenic
+<BR>&middot; wound
+<BR>Septicaemia
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">postprocedural
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">infection due to:
+<BR>&middot; infusion, transfusion and therapeutic injection 
+<NOBR>(
+<A HREF="#t802">T80.2
+</A>)
+</NOBR>
+<BR>&middot; prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t826">T82.6-T82.7
+</A>, 
+<A HREF="#t835">T83.5-T83.6
+</A>, 
+<A HREF="#t845">T84.5-T84.7
+</A>, 
+<A HREF="#t857">T85.7
+</A>)
+</NOBR>
+<BR>obstetric surgical wound infection 
+<NOBR>(
+<A HREF="go85.htm#o860">O86.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t815">
+</A>T81.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Foreign body accidentally left in body cavity or operation wound following a procedure
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Adhesions
+<BR>Obstruction
+<BR>Perforation
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">due to foreign body accidentally left in operation wound or body cavity
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">obstruction or perforation due to prosthetic devices and implants intentionally left in body 
+<NOBR>(
+<A HREF="#t820">T82.0-T82.5
+</A>, 
+<A HREF="#t830">T83.0-T83.4
+</A>, 
+<A HREF="#t840">T84.0-T84.4
+</A>, 
+<A HREF="#t850">T85.0-T85.6
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t816">
+</A>T81.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Acute reaction to foreign substance accidentally left during a procedure
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Peritonitis:
+<BR>&middot; aseptic
+<BR>&middot; chemical
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t817">
+</A>T81.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Vascular complications following a procedure, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Air embolism following procedure NEC
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">embolism:
+<BR>&middot; complicating:
+<BR>&nbsp;&nbsp;&middot; abortion or ectopic or molar pregnancy 
+<NOBR>(
+<A HREF="go00.htm#o00">O00-O07
+</A>, 
+<A HREF="go00.htm#o082">O08.2
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&middot; pregnancy, childbirth and the puerperium 
+<NOBR>(
+<A HREF="go85.htm#o88">O88.-
+</A>)
+</NOBR>
+<BR>&middot; due to prosthetic devices, implants and grafts 
+<NOBR>(
+<A HREF="#t828">T82.8
+</A>, 
+<A HREF="#t838">T83.8
+</A>, 
+<A HREF="#t848">T84.8
+</A>, 
+<A HREF="#t858">T85.8
+</A>)
+</NOBR>
+<BR>&middot; following infusion, transfusion and therapeutic injection 
+<NOBR>(
+<A HREF="#t800">T80.0
+</A>)
+</NOBR>
+<BR>&middot; traumatic 
+<NOBR>(
+<A HREF="gt79.htm#t790">T79.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t818">
+</A>T81.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of procedures, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Complication of inhalation therapy
+<BR>Emphysema (subcutaneous) resulting from a procedure
+<BR>Persistent postoperative fistula
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">hypothermia following anaesthesia 
+<NOBR>(
+<A HREF="#t885">T88.5
+</A>)
+</NOBR>
+<BR>malignant hyperthermia due to anaesthesia 
+<NOBR>(
+<A HREF="#t883">T88.3
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t819">
+</A>T81.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication of procedure
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t82">
+</A>T82
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of cardiac and vascular prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">failure and rejection of transplanted organs and tissues 
+<NOBR>(
+<A HREF="#t86">T86.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t820">
+</A>T82.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of heart valve prosthesis
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Breakdown (mechanical)
+<BR>Displacement
+<BR>Leakage
+<BR>Malposition
+<BR>Obstruction, mechanical
+<BR>Perforation
+<BR>Protrusion
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">due to heart valve prosthesis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t821">
+</A>T82.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of cardiac electronic device
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; electrodes
+<BR>&middot; pulse generator (battery)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t822">
+</A>T82.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of coronary artery bypass and valve grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to coronary artery bypass and valve grafts
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t823">
+</A>T82.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other vascular grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; aortic (bifurcation) graft (replacement)
+<BR>&middot; arterial (carotid) (femoral) graft (bypass)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t824">
+</A>T82.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of vascular dialysis catheter
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to vascular dialysis catheter
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">mechanical complication of intraperitoneal dialysis catheter 
+<NOBR>(
+<A HREF="#t856">T85.6
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t825">
+</A>T82.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other cardiac and vascular devices and implants
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">&middot; arteriovenous:
+<BR>&nbsp;&nbsp;&middot; fistula
+<BR>&nbsp;&nbsp;&middot; shunt
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">surgically created
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">&middot; artificial heart
+<BR>&middot; balloon (counterpulsation) device
+<BR>&middot; infusion catheter
+<BR>&middot; umbrella device
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">mechanical complication of epidural and subdural infusion catheter 
+<NOBR>(
+<A HREF="#t856">T85.6
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t826">
+</A>T82.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to cardiac valve prosthesis
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t827">
+</A>T82.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to other cardiac and vascular devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t828">
+</A>T82.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of cardiac and vascular prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Complication
+<BR>Embolism
+<BR>Fibrosis
+<BR>Haemorrhage
+<BR>Pain
+<BR>Stenosis
+<BR>Thrombosis
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">due to cardiac and vascular prosthetic devices, implants and grafts
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t829">
+</A>T82.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication of cardiac and vascular prosthetic device, implant and graft
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t83">
+</A>T83
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of genitourinary prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">failure and rejection of transplanted organs and tissues 
+<NOBR>(
+<A HREF="#t86">T86.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t830">
+</A>T83.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of urinary (indwelling) catheter
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; catheter:
+<BR>&nbsp;&nbsp;&middot; cystostomy
+<BR>&nbsp;&nbsp;&middot; urethral, indwelling
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t831">
+</A>T83.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other urinary devices and implants
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; urinary:
+<BR>&nbsp;&nbsp;&middot; electronic stimulator device
+<BR>&nbsp;&nbsp;&middot; sphincter implant
+<BR>&nbsp;&nbsp;&middot; stent
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t832">
+</A>T83.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of graft of urinary organ
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to graft of urinary organ
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t833">
+</A>T83.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of intrauterine contraceptive device
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to intrauterine contraceptive device
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t834">
+</A>T83.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other prosthetic devices, implants and grafts in genital tract
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to (implanted) penile prosthesis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t835">
+</A>T83.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to prosthetic device, implant and graft in urinary system
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t836">
+</A>T83.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to prosthetic device, implant and graft in genital tract
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t838">
+</A>T83.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of genitourinary prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.8 due to genitourinary prosthetic devices, implants and grafts
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t839">
+</A>T83.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication of genitourinary prosthetic device, implant and graft
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t84">
+</A>T84
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of internal orthopaedic prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">failure and rejection of transplanted organs and tissues 
+<NOBR>(
+<A HREF="#t86">T86.-
+</A>)
+</NOBR>
+<BR>fracture of bone following insertion of orthopaedic implant, joint prosthesis or bone plate 
+<NOBR>(
+<A HREF="gm95.htm#m966">M96.6
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t840">
+</A>T84.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of internal joint prosthesis
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to joint prosthesis
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t841">
+</A>T84.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of internal fixation device of bones of limb
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to internal fixation device of bones of limb
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t842">
+</A>T84.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of internal fixation device of other bones
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to internal fixation device of other bones
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t843">
+</A>T84.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other bone devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; bone graft
+<BR>&middot; electronic bone stimulator
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t844">
+</A>T84.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other internal orthopaedic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to muscle and tendon graft
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t845">
+</A>T84.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to internal joint prosthesis
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t846">
+</A>T84.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to internal fixation device [any site]
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t847">
+</A>T84.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to other internal orthopaedic prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t848">
+</A>T84.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of internal orthopaedic prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.8 due to internal orthopaedic prosthetic devices, implants and grafts
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t849">
+</A>T84.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication of internal orthopaedic prosthetic device, implant and graft
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t85">
+</A>T85
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of other internal prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">failure and rejection of transplanted organs and tissues 
+<NOBR>(
+<A HREF="#t86">T86.-
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t850">
+</A>T85.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of ventricular intracranial (communicating) shunt
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to ventricular intracranial (communicating) shunt
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t851">
+</A>T85.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of implanted electronic stimulator of nervous system
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to electronic neurostimulator (electrode) of:
+<BR>&middot; brain
+<BR>&middot; peripheral nerve
+<BR>&middot; spinal cord
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t852">
+</A>T85.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of intraocular lens
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to intraocular lens
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t853">
+</A>T85.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other ocular prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; corneal graft
+<BR>&middot; prosthetic orbit of eye
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t854">
+</A>T85.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of breast prosthesis and implant
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to breast prosthesis and implant
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t855">
+</A>T85.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of gastrointestinal prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; bile-duct prosthesis
+<BR>&middot; oesophageal anti-reflux device
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t856">
+</A>T85.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mechanical complication of other specified internal prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.0 due to:
+<BR>&middot; epidural and subdural infusion catheter
+<BR>&middot; intraperitoneal dialysis catheter
+<BR>&middot; nonabsorbable surgical material NOS
+<BR>&middot; permanent sutures
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">mechanical complication of permanent (wire) suture used in bone repair 
+<NOBR>(
+<A HREF="#t841">T84.1-T84.2
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t857">
+</A>T85.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection and inflammatory reaction due to other internal prosthetic devices, implants and grafts
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t858">
+</A>T85.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of internal prosthetic devices, implants and grafts, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Conditions listed in T82.8 due to internal prosthetic devices, implants and grafts NEC
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t859">
+</A>T85.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified complication of internal prosthetic device, implant and graft
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Complication of internal prosthetic device, implant and graft NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t86">
+</A>T86
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Failure and rejection of transplanted organs and tissues
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t860">
+</A>T86.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Bone-marrow transplant rejection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Graft-versus-host reaction or disease
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t861">
+</A>T86.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Kidney transplant failure and rejection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t862">
+</A>T86.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Heart transplant failure and rejection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">complication of:
+<BR>&middot; artificial heart device 
+<NOBR>(
+<A HREF="#t825">T82.5
+</A>)
+</NOBR>
+<BR>&middot; heart-lung transplant 
+<NOBR>(
+<A HREF="#t863">T86.3
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t863">
+</A>T86.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Heart-lung transplant failure and rejection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t864">
+</A>T86.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Liver transplant failure and rejection
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t868">
+</A>T86.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Failure and rejection of other transplanted organs and tissues
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Transplant failure or rejection of:
+<BR>&middot; bone
+<BR>&middot; intestine
+<BR>&middot; lung
+<BR>&middot; pancreas
+<BR>&middot; skin (allograft) (autograft)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t869">
+</A>T86.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Failure and rejection of unspecified transplanted organ and tissue
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t87">
+</A>T87
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications peculiar to reattachment and amputation
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t870">
+</A>T87.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of reattached (part of) upper extremity
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t871">
+</A>T87.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of reattached (part of) lower extremity
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t872">
+</A>T87.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complications of other reattached body part
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t873">
+</A>T87.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Neuroma of amputation stump
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t874">
+</A>T87.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection of amputation stump
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t875">
+</A>T87.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Necrosis of amputation stump
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t876">
+</A>T87.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other and unspecified complications of amputation stump
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Amputation stump:
+<BR>&middot; contracture (flexion)(of next proximal joint)
+<BR>&middot; haematoma
+<BR>&middot; oedema
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">phantom limb syndrome 
+<NOBR>(
+<A HREF="gg50.htm#g546">G54.6-G54.7
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="t88">
+</A>T88
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of surgical and medical care, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">accidental puncture or laceration during a procedure 
+<NOBR>(
+<A HREF="#t812">T81.2
+</A>)
+</NOBR>
+<BR>complications following:
+<BR>&middot; infusion, transfusion and therapeutic injection 
+<NOBR>(
+<A HREF="#t80">T80.-
+</A>)
+</NOBR>
+<BR>&middot; procedure NEC 
+<NOBR>(
+<A HREF="#t81">T81.-
+</A>)
+</NOBR>
+<BR>specified complications classified elsewhere, such as:
+<BR>&middot; complications of:
+<BR>&nbsp;&nbsp;&middot; anaesthesia in:
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&middot; labour and delivery 
+<NOBR>(
+<A HREF="go60.htm#o74">O74.-
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&middot; pregnancy 
+<NOBR>(
+<A HREF="go20.htm#o29">O29.-
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&middot; puerperium 
+<NOBR>(
+<A HREF="go85.htm#o89">O89.-
+</A>)
+</NOBR>
+<BR>&middot; devices, implants and grafts 
+<NOBR>(
+<A HREF="#t82">T82-T85
+</A>)
+</NOBR>
+<BR>&middot; obstetric surgery and procedures 
+<NOBR>(
+<A HREF="go60.htm#o754">O75.4
+</A>)
+</NOBR>
+<BR>&middot; dermatitis due to drugs and medicaments 
+<NOBR>(
+<A HREF="gl20.htm#l233">L23.3
+</A>, 
+<A HREF="gl20.htm#l244">L24.4
+</A>, 
+<A HREF="gl20.htm#l251">L25.1
+</A>, 
+<A HREF="gl20.htm#l270">L27.0-L27.1
+</A>)
+</NOBR>
+<BR>&middot; poisoning and toxic effects of drugs and chemicals 
+<NOBR>(
+<A HREF="gt36.htm#t36">T36-T65
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t880">
+</A>T88.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Infection following immunization
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Sepsis
+<BR>Septicaemia
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">following immunization
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t881">
+</A>T88.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications following immunization, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Rash following immunization
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">anaphylactic shock due to serum 
+<NOBR>(
+<A HREF="#t805">T80.5
+</A>)
+</NOBR>
+<BR>other serum reactions 
+<NOBR>(
+<A HREF="#t806">T80.6
+</A>)
+</NOBR>
+<BR>postimmunization:
+<BR>&middot; arthropathy 
+<NOBR>(
+<A HREF="gm00.htm#m022">M02.2
+</A>)
+</NOBR>
+<BR>&middot; encephalitis 
+<NOBR>(
+<A HREF="gg00.htm#g040">G04.0
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t882">
+</A>T88.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Shock due to anaesthesia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Shock due to anaesthesia in which the correct substance was properly administered
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">complications of anaesthesia (in):
+<BR>&middot; from overdose or wrong substance given 
+<NOBR>(
+<A HREF="gt36.htm#t36">T36-T50
+</A>)
+</NOBR>
+<BR>&middot; labour and delivery 
+<NOBR>(
+<A HREF="go60.htm#o74">O74.-
+</A>)
+</NOBR>
+<BR>&middot; pregnancy 
+<NOBR>(
+<A HREF="go20.htm#o29">O29.-
+</A>)
+</NOBR>
+<BR>&middot; puerperium 
+<NOBR>(
+<A HREF="go85.htm#o89">O89.-
+</A>)
+</NOBR>
+<BR>postoperative shock NOS 
+<NOBR>(
+<A HREF="#t811">T81.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t883">
+</A>T88.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Malignant hyperthermia due to anaesthesia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t884">
+</A>T88.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Failed or difficult intubation
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t885">
+</A>T88.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other complications of anaesthesia
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Hypothermia following anaesthesia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t886">
+</A>T88.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Anaphylactic shock due to adverse effect of correct drug or medicament properly administered
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">anaphylactic shock due to serum 
+<NOBR>(
+<A HREF="#t805">T80.5
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t887">
+</A>T88.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Unspecified adverse effect of drug or medicament
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="4">Adverse effect of
+<BR>Allergic reaction to
+<BR>Hypersensitivity to
+<BR>Idiosyncracy to
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">correct drug or medicament properly administered
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Drug:
+<BR>&middot; hypersensitivity NOS
+<BR>&middot; reaction NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">specified adverse effects of drugs and medicaments 
+<NOBR>(
+<A HREF="ga00.htm#a00">A00-R99
+</A>,
+<A HREF="#t80">T80-T88.6
+</A>, 
+<A HREF="#t888">T88.8
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t888">
+</A>T88.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Other specified complications of surgical and medical care, not elsewhere classified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>
+<A NAME="t889">
+</A>T88.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Complication of surgical and medical care, unspecified
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">adverse effect NOS 
+<NOBR>(
+<A HREF="gt66.htm#t789">T78.9
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

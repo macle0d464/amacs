@@ -1,0 +1,1114 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter XX (V01-Y98)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XX">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="ks00.htm">Previous&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kz00.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gv01.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('kv01.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XX
+<BR>
+<HR>External causes of morbidity and mortality
+<BR>(V01-Y98)
+</H1>This chapter, which in previous revisions of ICD constituted a supplementary classification, permits the classification of environmental events and circumstances as the cause of injury, poisoning and other adverse effects. Where a code from this section is applicable, it is intended that it shall be used in addition to a code from another chapter of the Classification indicating the nature of the condition. Most often, the condition will be classifiable to Chapter XIX, Injury, poisoning and certain other consequences of external causes (S00-T98). Causes of death should preferably be tabulated according to both Chapter XIX and Chapter XX, but if only one code is tabulated then the code from Chapter XX should be used in preference. Other conditions that may be stated to be due to external causes are classified in Chapters I to XVIII. For these conditions, codes from Chapter XX should be used to provide additional information for multiple-condition analysis only.
+<P>
+</P>Categories for sequelae of external causes of morbidity and mortality are included at Y85-Y89.
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv01.htm">V01-X59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv01.htm">V01-V99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Transport accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv01.htm">V01-V09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Pedestrian injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv10.htm">V10-V19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Pedal cyclist injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv20.htm">V20-V29
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Motorcycle rider injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv30.htm">V30-V39
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Occupant of three-wheeled motor vehicle injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv40.htm">V40-V49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Car occupant injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv50.htm">V50-V59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Occupant of pick-up truck or van injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv60.htm">V60-V69
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Occupant of heavy transport vehicle injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv70.htm">V70-V79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Bus occupant injured in transport accident
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv80.htm">V80-V89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Other land transport accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv90.htm">V90-V94
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Water transport accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv95.htm">V95-V97
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Air and space transport accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gv98.htm">V98-V99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Other and unspecified transport accidents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw00.htm">W00-X59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Other external causes of accidental injury
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw00.htm">W00-W19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Falls
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw20.htm">W20-W49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Exposure to inanimate mechanical forces
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw50.htm">W50-W64
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Exposure to animate mechanical forces
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw65.htm">W65-W74
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Accidental drowning and submersion
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw75.htm">W75-W84
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Other accidental threats to breathing
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gw85.htm">W85-W99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Exposure to electric current, radiation and extreme ambient air temperature and pressure
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx00.htm">X00-X09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Exposure to smoke, fire and flames
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx10.htm">X10-X19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Contact with heat and hot substances
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx20.htm">X20-X29
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Contact with venomous animals and plants
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx30.htm">X30-X39
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Exposure to forces of nature
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx40.htm">X40-X49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Accidental poisoning by and exposure to noxious substances
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx50.htm">X50-X57
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Overexertion, travel and privation
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx58.htm">X58-X59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="1">Accidental exposure to other and unspecified factors
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx60.htm">X60-X84
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Intentional self-harm
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gx85.htm">X85-Y09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Assault
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy10.htm">Y10-Y34
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Event of undetermined intent
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy35.htm">Y35-Y36
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Legal intervention and operations of war
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy40.htm">Y40-Y84
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Complications of medical and surgical care
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy40.htm">Y40-Y59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Drugs, medicaments and biological substances causing adverse effects in therapeutic use
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy60.htm">Y60-Y69
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Misadventures to patients during surgical and medical care
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy70.htm">Y70-Y82
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Medical devices associated with adverse incidents in diagnostic and therapeutic use
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy83.htm">Y83-Y84
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Surgical and other medical procedures as the cause of abnormal reaction of the patient, or of later complication, without mention of misadventure at the time of the procedure
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy85.htm">Y85-Y89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Sequelae of external causes of morbidity and mortality
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gy90.htm">Y90-Y98
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Supplementary factors related to causes of morbidity and mortality classified elsewhere
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<H2>Place of occurrence code
+</H2>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">
+<A NAME="s20w00">
+</A>The following fourth-character subdivisions are for use with categories W00-Y34 except Y06.-and Y07.- to identify the place of occurrence of the external cause where relevant:
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Home
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Apartment
+<BR>Boarding-house
+<BR>Caravan [trailer] park, residential
+<BR>Farmhouse
+<BR>Home premises
+<BR>House (residential)
+<BR>Noninstitutional place of residence
+<BR>Private:
+<BR>&middot; driveway to home
+<BR>&middot; garage
+<BR>&middot; garden to home
+<BR>&middot; yard to home
+<BR>Swimming-pool in private house or garden
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">abandoned or derelict house 
+<NOBR>(.8)
+</NOBR>
+<BR>home under construction but not yet occupied 
+<NOBR>(.6)
+</NOBR>
+<BR>institutional place of residence 
+<NOBR>(.1)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Residential institution
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Children's home
+<BR>Dormitory
+<BR>Home for the sick
+<BR>Hospice
+<BR>Military camp
+<BR>Nursing home
+<BR>Old people's home
+<BR>Orphanage
+<BR>Pensioner's home
+<BR>Prison
+<BR>Reform school
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>School, other institution and public administrative area
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Building (including adjacent grounds) used by the general public or by a particular group of the public such as:
+<BR>&middot; assembly hall
+<BR>&middot; campus
+<BR>&middot; church
+<BR>&middot; cinema
+<BR>&middot; clubhouse
+<BR>&middot; college
+<BR>&middot; court-house
+<BR>&middot; dancehall
+<BR>&middot; day nursery
+<BR>&middot; gallery
+<BR>&middot; hospital
+<BR>&middot; institute for higher education
+<BR>&middot; kindergarten
+<BR>&middot; library
+<BR>&middot; movie-house
+<BR>&middot; museum
+<BR>&middot; music-hall
+<BR>&middot; opera-house
+<BR>&middot; post office
+<BR>&middot; public hall
+<BR>&middot; school (private)(public)(state)
+<BR>&middot; theatre
+<BR>&middot; university
+<BR>&middot; youth centre
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">building under construction 
+<NOBR>(.6)
+</NOBR>
+<BR>residential institution 
+<NOBR>(.1)
+</NOBR>
+<BR>sports and athletics area 
+<NOBR>(.3)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Sports and athletics area
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Baseball field
+<BR>Basketball-court
+<BR>Cricket ground
+<BR>Football field
+<BR>Golf-course
+<BR>Gymnasium
+<BR>Hockey field
+<BR>Riding-school
+<BR>Skating-rink
+<BR>Squash-court
+<BR>Stadium
+<BR>Swimming-pool, public
+<BR>Tennis-court
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">swimming-pool or tennis-court in private home or garden 
+<NOBR>(.0)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Street and highway
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Freeway
+<BR>Motorway
+<BR>Pavement
+<BR>Road
+<BR>Sidewalk
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Trade and service area
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Airport
+<BR>Bank
+<BR>Caf&eacute;
+<BR>Casino
+<BR>Garage (commercial)
+<BR>Gas station
+<BR>Hotel
+<BR>Market
+<BR>Office building
+<BR>Petrol station
+<BR>Radio or television station
+<BR>Restaurant
+<BR>Service station
+<BR>Shop (commercial)
+<BR>Shopping mall
+<BR>Station (bus)(railway)
+<BR>Store
+<BR>Supermarket
+<BR>Warehouse
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">garage in private home 
+<NOBR>(.0)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Industrial and construction area
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Building [any] under construction
+<BR>Dockyard
+<BR>Dry dock
+<BR>Factory:
+<BR>&middot; building
+<BR>&middot; premises
+<BR>Gasworks
+<BR>Industrial yard
+<BR>Mine
+<BR>Oil rig and other offshore installations
+<BR>Pit (coal)(gravel)(sand)
+<BR>Power-station (coal)(nuclear)(oil)
+<BR>Shipyard
+<BR>Tunnel under construction
+<BR>Workshop
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Farm
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Farm:
+<BR>&middot; buildings
+<BR>&middot; land under cultivation
+<BR>Ranch
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">farmhouse and home premises of farm 
+<NOBR>(.0)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Other specified places
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Beach
+<BR>Campsite
+<BR>Canal
+<BR>Caravan site NOS
+<BR>Derelict house
+<BR>Desert
+<BR>Dock NOS
+<BR>Forest
+<BR>Harbour
+<BR>Hill
+<BR>Lake
+<BR>Marsh
+<BR>Military training ground
+<BR>Mountain
+<BR>Park (amusement) (public)
+<BR>Parking-lot and parking-place
+<BR>Pond or pool
+<BR>Prairie
+<BR>Public place NOS
+<BR>Railway line
+<BR>River
+<BR>Sea
+<BR>Seashore
+<BR>Stream
+<BR>Swamp
+<BR>Water reservoir
+<BR>Zoo
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Unspecified place
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<H2>Activity code
+</H2>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">
+<A NAME="s20v01t">
+</A>The following subclassification is provided for optional use in a supplementary character position with categories V01-Y34 to indicate the activity of the injured person at the time the event occurred. This subclassification should not be confused with, or be used instead of, the recommended fourth-character subdivisions provided to indicate the place of occurrence of events classifiable to W00-Y34.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">0
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While engaged in sports activity
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Physical exercise with a described functional element such as:
+<BR>&middot; golf
+<BR>&middot; jogging
+<BR>&middot; riding
+<BR>&middot; school athletics
+<BR>&middot; skiing
+<BR>&middot; swimming
+<BR>&middot; trekking
+<BR>&middot; water-skiing
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">1
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While engaged in leisure activity
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Hobby activities
+<BR>Leisure-time activities with an entertainment element such as going to the cinema, to a dance or to a party
+<BR>Participation in sessions and activities of voluntary organizations
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">sports activities 
+<NOBR>(0)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">2
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While working for income
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Paid work (manual)(professional)
+<BR>Transportation (time) to and from such activities
+<BR>Work for salary, bonus and other types of income
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">3
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While engaged in other types of work
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Domestic duties such as:
+<BR>&middot; caring for children and relatives
+<BR>&middot; cleaning
+<BR>&middot; cooking
+<BR>&middot; gardening
+<BR>&middot; household maintenance
+<BR>Duties for which one would not normally gain an income
+<BR>Learning activities, e.g. attending school session or lesson
+<BR>Undergoing education
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">4
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While resting, sleeping, eating or engaging in other vital activities
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Personal hygiene
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">8
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">While engaged in other specified activities
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">9
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">During unspecified activity
+</TD>
+</TR>
+</TABLE>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

@@ -1,0 +1,1229 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/cohort_databases/!svn/ver/17/amacs/htdocs/cohort
+END
+hbv_add_dosage.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_add_dosage.php
+END
+delete_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_lab.php
+END
+hcv_add_dosage.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_add_dosage.php
+END
+intermediate.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/intermediate.php
+END
+clinical_status_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/clinical_status_insert.php
+END
+alter_patient_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/alter_patient_insert.php
+END
+antiretro.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/antiretro.php
+END
+main_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/17/amacs/htdocs/cohort/main_insert.php
+END
+other_therapies_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/other_therapies_insert.php
+END
+hbv_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_lab.php
+END
+icd.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/icd.php
+END
+hcv_io_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_io_insert.php
+END
+alles.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/alles.php
+END
+change_clinical_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/change_clinical_status.php
+END
+show_antiretro_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/show_antiretro_data.php
+END
+coinfection_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/coinfection_insert.php
+END
+fix-updater.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix-updater.php
+END
+string.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/string.php
+END
+iris.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iris.php
+END
+db_dump.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/db_dump.php
+END
+fix.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix.php
+END
+jail.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/jail.php
+END
+hbv_clinical_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_clinical_status.php
+END
+antiretro_part3.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_part3.php
+END
+change_patient_codes.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/change_patient_codes.php
+END
+clinical_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/clinical_status.php
+END
+delete_other_treatments.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_other_treatments.php
+END
+options.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/options.php
+END
+delete_clinical_visits.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_clinical_visits.php
+END
+delete_exams.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_exams.php
+END
+delete_with_query.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_with_query.php
+END
+hiv_resistance.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/hiv_resistance.php
+END
+ourwn.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/ourwn.php
+END
+delete_exams_io.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_exams_io.php
+END
+istology_insert_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/istology_insert_old.php
+END
+delete_iris.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_iris.php
+END
+last_state.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/19/amacs/htdocs/cohort/last_state.php
+END
+show_hospitalization.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_hospitalization.php
+END
+fix_inconsistency.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix_inconsistency.php
+END
+fix_inconsistency2.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix_inconsistency2.php
+END
+hcv_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_lab.php
+END
+show_orologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_orologikes.php
+END
+atomic.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/atomic.php
+END
+hcv_other_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_other_insert.php
+END
+hcv_reasons_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_reasons_insert.php
+END
+date.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/date.php
+END
+hospitalization_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/hospitalization_insert.php
+END
+iologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/iologikes.php
+END
+hbv_edit_dosage_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_edit_dosage_insert.php
+END
+hbv_io_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_io_insert.php
+END
+change.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/change.php
+END
+hcv_edit_dosage_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_edit_dosage_insert.php
+END
+orologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/orologikes_insert.php
+END
+delete_therapies.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_therapies.php
+END
+delete_antiretro_data_stupid.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_antiretro_data_stupid.php
+END
+update_tables.php.bak
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/update_tables.php.bak
+END
+alter_bioximikes_table.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/alter_bioximikes_table.php
+END
+hbv_other_reasons.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_other_reasons.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/index.html
+END
+help.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/help.php
+END
+graph_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/graph_report.php
+END
+other_exams.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/other_exams.php
+END
+delete_antiretro_data_step2.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_antiretro_data_step2.php
+END
+hiv_io_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hiv_io_insert.php
+END
+query.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/query.php
+END
+convert_antiretro_data_from_1.6_to_1.7.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/convert_antiretro_data_from_1.6_to_1.7.php
+END
+show_lab.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_lab.php
+END
+atomic_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/atomic_insert.php
+END
+delete_resistance.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/delete_resistance.php
+END
+show_alles.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_alles.php
+END
+main_edit.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/main_edit.php
+END
+existing_patient.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/existing_patient.php
+END
+hbv_show_antiiikes_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_show_antiiikes_data.php
+END
+hcv_delete_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_delete_schema.php
+END
+fix_antiretro.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix_antiretro.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/index.php
+END
+antapokriseis_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/antapokriseis_insert.php
+END
+delete_coinfection.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_coinfection.php
+END
+helpt.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/helpt.php
+END
+ourwn_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/ourwn_insert.php
+END
+hcv_istology_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_istology_insert.php
+END
+alter_patient.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/alter_patient.php
+END
+antiretro_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/antiretro_insert.php
+END
+hbv_clinical_status_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_clinical_status_insert.php
+END
+iolog_method.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iolog_method.php
+END
+antiretro_step2.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_step2.php
+END
+antiretro_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_old.php
+END
+bioximikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/bioximikes.php
+END
+iris_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iris_insert.php
+END
+newpatient.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/newpatient.php
+END
+delete_subtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_subtype.php
+END
+delete_all_xls.bat
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/delete_all_xls.bat
+END
+hospitalization.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/hospitalization.php
+END
+hbv_other_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_other_insert.php
+END
+antiretro_reasons.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_reasons.php
+END
+show_iologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_iologikes.php
+END
+hcv_show_antiiikes_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_show_antiiikes_data.php
+END
+delete_patient.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_patient.php
+END
+icd10_list.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/icd10_list.php
+END
+prophylactic.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/prophylactic.php
+END
+prophylactic_reasons_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/prophylactic_reasons_insert.php
+END
+export_db2xls.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/export_db2xls.php
+END
+show_prophylactic.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_prophylactic.php
+END
+clinical_status_insert2.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/clinical_status_insert2.php
+END
+hbv_iolog_observe.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_iolog_observe.php
+END
+medicines.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/medicines.php
+END
+change_antiretro_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/change_antiretro_data.php
+END
+aimatologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/aimatologikes.php
+END
+hbv_istology.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_istology.php
+END
+setup.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/setup.php
+END
+hbv_change_antiiikes_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_change_antiiikes_data.php
+END
+plot.bat
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/plot.bat
+END
+find_patient.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/find_patient.php
+END
+resistance_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/resistance_insert.php
+END
+anosologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/anosologikes_insert.php
+END
+delete_therapies_other.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_therapies_other.php
+END
+hbv_antiiikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_antiiikes_insert.php
+END
+change_iris_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/change_iris_data.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/error.php
+END
+hiv_subtype_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hiv_subtype_insert.php
+END
+main_edit_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/main_edit_insert.php
+END
+hbv_edit_dosage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_edit_dosage.php
+END
+hiv_delete_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hiv_delete_schema.php
+END
+delete_oro_exams.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_oro_exams.php
+END
+hbv_iologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_iologikes_insert.php
+END
+hbv_lab_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_lab_insert.php
+END
+hcv_lab_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_lab_insert.php
+END
+demographic_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/demographic_insert.php
+END
+alter.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/alter.php
+END
+anosologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/anosologikes.php
+END
+hcv_edit_antiiikes_extra.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_edit_antiiikes_extra.php
+END
+orologikes_insert_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/orologikes_insert_old.php
+END
+show_anosologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_anosologikes.php
+END
+update_tables.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/update_tables.php
+END
+hcv_other_reasons.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_other_reasons.php
+END
+prophylactic_therapies_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/prophylactic_therapies_insert.php
+END
+delete_antiretro_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_antiretro_data.php
+END
+index-alpha.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/index-alpha.php
+END
+demographic.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/demographic.php
+END
+create_exported_db_zip.bat
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/create_exported_db_zip.bat
+END
+hbv_other_insert1.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_other_insert1.php
+END
+edit_iris.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/edit_iris.php
+END
+hcv_edit_dosage.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_edit_dosage.php
+END
+orologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/orologikes.php
+END
+delete_bio_exams.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_bio_exams.php
+END
+hbv_reasons_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hbv_reasons_insert.php
+END
+hbv_other_treatments.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_other_treatments.php
+END
+add_race.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/add_race.php
+END
+last_state_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/19/amacs/htdocs/cohort/last_state_insert.php
+END
+edit_coinfection.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/edit_coinfection.php
+END
+iris_type_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iris_type_insert.php
+END
+find_code.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/find_code.php
+END
+hcv_antiiikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_antiiikes.php
+END
+clinic_visit.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/clinic_visit.php
+END
+exams.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/exams.php
+END
+delete_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_schema.php
+END
+cd4_rna_art_report.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/2/amacs/htdocs/cohort/cd4_rna_art_report.php
+END
+insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/insert.php
+END
+main.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/17/amacs/htdocs/cohort/main.php
+END
+hcv_clinical_status.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_clinical_status.php
+END
+aimatologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/aimatologikes_insert.php
+END
+setup_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/setup_insert.php
+END
+show_aimatologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_aimatologikes.php
+END
+iris_ant_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iris_ant_insert.php
+END
+hcv_istology.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_istology.php
+END
+istology_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/istology_insert.php
+END
+hcv_add_dosage_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_add_dosage_insert.php
+END
+hcv_iolog_observe_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_iolog_observe_old.php
+END
+delete_hbv_other_treatments.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_hbv_other_treatments.php
+END
+antiretro_insert_old.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_insert_old.php
+END
+hcv_antiiikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_antiiikes_insert.php
+END
+show_all_demographic.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_all_demographic.php
+END
+therapies.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/therapies.php
+END
+hcv_iologikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_iologikes.php
+END
+delete_exams_oro.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_exams_oro.php
+END
+hcv_iologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_iologikes_insert.php
+END
+newpatient_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/newpatient_insert.php
+END
+hbv_antiiikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_antiiikes.php
+END
+delete_hospitalization.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/delete_hospitalization.php
+END
+hbv_edit_antiiikes_extra.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_edit_antiiikes_extra.php
+END
+hcv_iolog_observe.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_iolog_observe.php
+END
+edit_antiretro_extra.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/edit_antiretro_extra.php
+END
+istology.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/istology.php
+END
+hcv_change_antiiikes_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_change_antiiikes_data.php
+END
+hcv_clinical_status_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/hcv_clinical_status_insert.php
+END
+show_hbv_other_data.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_hbv_other_data.php
+END
+.version
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cohort_databases/!svn/ver/16/amacs/htdocs/cohort/.version
+END
+hbv_add_dosage_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_add_dosage_insert.php
+END
+antiretro_step3.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_step3.php
+END
+prophylactic_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/prophylactic_insert.php
+END
+prophylactic_reasons.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/prophylactic_reasons.php
+END
+show_bioximikes.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/show_bioximikes.php
+END
+coinfection.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/coinfection.php
+END
+alles_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/alles_insert.php
+END
+iologikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/iologikes_insert.php
+END
+antiretro_reasons_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/antiretro_reasons_insert.php
+END
+clinical_status_delete.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/clinical_status_delete.php
+END
+fix-problems.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/fix-problems.php
+END
+delete_istology.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/delete_istology.php
+END
+hcv_other_treatments.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hcv_other_treatments.php
+END
+hbv_delete_schema.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/hbv_delete_schema.php
+END
+other_exams_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/cohort_databases/!svn/ver/8/amacs/htdocs/cohort/other_exams_insert.php
+END
+bioximikes_insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/cohort_databases/!svn/ver/3/amacs/htdocs/cohort/bioximikes_insert.php
+END
+cohort.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/cohort_databases/!svn/ver/1/amacs/htdocs/cohort/cohort.php
+END

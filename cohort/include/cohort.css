@@ -1,0 +1,104 @@
+body,td,th,input,select {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+body {
+background-color: #f8e8a0;
+}
+
+th.result {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold; color: #000000; background-color: #99FFFF}
+
+td.result {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+background-color: #FFFFFF }
+
+td.errormsg {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold; background-color: white; color: red
+}
+td.show {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+td.showc {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+}
+p.show {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 12px;
+font-weight: bold;
+}
+
+.img-shadow {
+  float:left;
+  background: url(../images/shadow.png) no-repeat bottom right !important;
+  margin: 10px 0 0 10px !important;
+  }
+
+  
+.img-shadow p {
+  display: block;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  margin: -6px 6px 6px -6px;
+  padding: 4px;
+  }
+
+.img-shadow img {
+  display: block;
+  position: relative;
+  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  margin: -6px 6px 6px -6px;
+  padding: 4px;
+  }  
+  
+.img-shadow table {
+  display: block;
+  position: relative;
+//  background-color: #fff;
+  border: 1px solid #a9a9a9;
+  margin: -6px 6px 6px -6px;
+//  padding: 4px;
+  }  
+
+.menu-shadow {
+  float:left;
+  background: url(../images/shadow.png) no-repeat bottom right !important;
+  margin: 10px 0 0 10px !important;
+  }  
+  
+.menu-shadow-inner {
+  display: block;
+  position: relative;
+  border: 2px solid #fb7922;
+  margin: -6px 6px 6px -6px;
+  }
+
+.submenu-shadow {
+  float:left;
+  background: url(../images/shadow.png) no-repeat bottom right !important;
+  margin: 10px 0 0 10px !important;
+  }    
+  
+.submenu-shadow-inner {
+  display: block;
+  position: relative;
+  margin: -6px 6px 6px -6px;
+  }   
+  
+/*
+tr:hover {
+    background-color: #CCFFCC;
+}*/

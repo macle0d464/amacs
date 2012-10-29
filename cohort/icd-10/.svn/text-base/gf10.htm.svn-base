@@ -1,0 +1,928 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Block F10-F19
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter V">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm">Chapter&nbsp;Introduction</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kf00.htm#glied">List&nbsp;of&nbsp;Blocks</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf00.htm">Previous&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gf20.htm">Next&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('gf10.htm',window.location.hash.substring(1))">
+
+<H1>Chapter V
+<BR>
+<HR>Mental and behavioural disorders
+<BR>(F00-F99)
+</H1>
+<H2>Mental and behavioural disorders due to psychoactive substance use
+<BR>(F10-F19)
+</H2>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">This block contains a wide variety of disorders that differ in severity and clinical form but that are all attributable to the use of one or more psychoactive substances, which may or may not have been medically prescribed. The third character of the code identifies the substance involved, and the fourth character specifies the clinical state. The codes should be used, as required, for each substance specified, but it should be noted that not all fourth-character codes are applicable to all substances.
+<P>
+</P>Identification of the psychoactive substance should be based on as many sources of information as possible. These include self-report data, analysis of blood and other body fluids, characteristic physical and psychological symptoms, clinical signs and behaviour, and other evidence such as a drug being in the patient's possession or reports from informed third parties. Many drug users take more than one type of psychoactive substance. The main diagnosis should be classified, whenever possible, according to the substance or class of substances that has caused or contributed most to the presenting clinical syndrome. Other diagnoses should be coded when other psychoactive substances have been taken in intoxicating amounts (common fourth character .0) or to the extent of causing harm (common fourth character .1), dependence (common fourth character .2) or other disorders (common fourth character .3-.9).
+<P>
+</P>Only in cases in which patterns of psychoactive substance-taking are chaotic and indiscriminate, or in which the contributions of different psychoactive substances are inextricably mixed, should the diagnosis of disorders resulting from multiple drug use (F19.-) be used.
+<P>
+</P>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">abuse of non-dependence-producing substances 
+<NOBR>(
+<A HREF="gf50.htm#f55">F55
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">
+<A NAME="s05f10">
+</A>The following fourth-character subdivisions are for use with categories F10-F19:
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.0
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Acute intoxication
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A condition that follows the administration of a psychoactive substance resulting in disturbances in level of consciousness, cognition, perception, affect or behaviour, or other psycho-physiological functions and responses. The disturbances are directly related to the acute pharmacological effects of the substance and resolve with time, with complete recovery, except where tissue damage or other complications have arisen. Complications may include trauma, inhalation of vomitus, delirium, coma, convulsions, and other medical complications. The nature of these complications depends on the pharmacological class of substance and mode of administration.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Acute drunkenness in alcoholism
+<BR>"Bad trips" (drugs)
+<BR>Drunkenness NOS
+<BR>Pathological intoxication
+<BR>Trance and possession disorders in psychoactive substance intoxication
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.1
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Harmful use
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A pattern of psychoactive substance use that is causing damage to health. The damage may be physical (as in cases of hepatitis from the self-administration of injected psychoactive substances) or mental (e.g. episodes of depressive disorder secondary to heavy consumption of alcohol).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Psychoactive substance abuse
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.2
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Dependence syndrome
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A cluster of behavioural, cognitive, and physiological phenomena that develop after repeated substance use and that typically include a strong desire to take the drug, difficulties in controlling its use, persisting in its use despite harmful consequences, a higher priority given to drug use than to other activities and obligations, increased tolerance, and sometimes a physical withdrawal state.
+<P>
+</P>The dependence syndrome may be present for a specific psychoactive substance (e.g. tobacco, alcohol, or diazepam), for a class of substances (e.g. opioid drugs), or for a wider range of pharmacologically different psychoactive substances.
+<P>
+</P>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Chronic alcoholism
+<BR>Dipsomania
+<BR>Drug addiction
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.3
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Withdrawal state
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A group of symptoms of variable clustering and severity occurring on absolute or relative withdrawal of a psychoactive substance after persistent use of that substance. The onset and course of the withdrawal state are time-limited and are related to the type of psychoactive substance and dose being used immediately before cessation or reduction of use. The withdrawal state may be complicated by convulsions.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.4
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Withdrawal state with delirium
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A condition where the withdrawal state as defined in the common fourth character .3 is complicated by delirium as defined in F05.-. Convulsions may also occur. When organic factors are also considered to play a role in the etiology, the condition should be classified to F05.8.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Delirium tremens (alcohol-induced)
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.5
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Psychotic disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A cluster of psychotic phenomena that occur during or following psychoactive substance use but that are not explained on the basis of acute intoxication alone and do not form part of a withdrawal state. The disorder is characterized by hallucinations (typically auditory, but often in more than one sensory modality), perceptual distortions, delusions (often of a paranoid or persecutory nature), psychomotor disturbances (excitement or stupor), and an abnormal affect, which may range from intense fear to ecstasy. The sensorium is usually clear but some degree of clouding of consciousness, though not severe confusion, may be present.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Alcoholic:
+<BR>&middot; hallucinosis
+<BR>&middot; jealousy
+<BR>&middot; paranoia
+<BR>&middot; psychosis NOS
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">alcohol- or other psychoactive substance-induced residual and late-onset psychotic disorder 
+<NOBR>(
+<A HREF="#f10">F10-F19
+</A> with common fourth character .7)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.6
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Amnesic syndrome
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A syndrome associated with chronic prominent impairment of recent and remote memory. Immediate recall is usually preserved and recent memory is characteristically more disturbed than remote memory. Disturbances of time sense and ordering of events are usually evident, as are difficulties in learning new material. Confabulation may be marked but is not invariably present. Other cognitive functions are usually relatively well preserved and amnesic defects are out of proportion to other disturbances.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Amnestic disorder, alcohol- or drug-induced
+<BR>Korsakov's psychosis or syndrome, alcohol- or other psychoactive substance-induced or unspecified
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">nonalcoholic Korsakov's psychosis or syndrome 
+<NOBR>(
+<A HREF="gf00.htm#f04">F04
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.7
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Residual and late-onset psychotic disorder
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">A disorder in which alcohol- or psychoactive substance-induced changes of cognition, affect, personality, or behaviour persist beyond the period during which a direct psychoactive substance-related effect might reasonably be assumed to be operating. Onset of the disorder should be directly related to the use of the psychoactive substance. Cases in which initial onset of the state occurs later than episode(s) of such substance use should be coded here only where clear and strong evidence is available to attribute the state to the residual effect of the psychoactive substance. Flashbacks may be distinguished from psychotic state partly by their episodic nature, frequently of very short duration, and by their duplication of previous alcohol- or other psychoactive substance-related experiences.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Alcoholic dementia NOS
+<BR>Chronic alcoholic brain syndrome
+<BR>Dementia and other milder forms of persisting impairment of cognitive functions
+<BR>Flashbacks
+<BR>Late-onset psychoactive substance-induced psychotic disorder
+<BR>Posthallucinogen perception disorder
+<BR>Residual:
+<BR>&middot; affective disorder
+<BR>&middot; disorder of personality and behaviour
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">alcohol- or psychoactive substance-induced:
+<BR>&middot; Korsakov's syndrome 
+<NOBR>(
+<A HREF="#f10">F10-F19
+</A> with common fourth character .6)
+</NOBR>
+<BR>&middot; psychotic state 
+<NOBR>(
+<A HREF="#f10">F10-F19
+</A> with common fourth character .5)
+</NOBR>
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.8
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Other mental and behavioural disorders
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<STRONG>.9
+</STRONG>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">
+<STRONG>Unspecified mental and behavioural disorder
+</STRONG>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f10">
+</A>F10
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of alcohol
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f11">
+</A>F11
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of opioids
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f12">
+</A>F12
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of cannabinoids
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f13">
+</A>F13
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of sedatives or hypnotics
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f14">
+</A>F14
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of cocaine
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f15">
+</A>F15
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of other stimulants, including caffeine
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f16">
+</A>F16
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of hallucinogens
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f17">
+</A>F17
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of tobacco
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f18">
+</A>F18
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to use of volatile solvents
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%" BGCOLOR="BLACK">
+<span class="white">
+<STRONG>
+<A NAME="f19">
+</A>F19
+</STRONG>
+</span>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<STRONG>Mental and behavioural disorders due to multiple drug use and use of other psychoactive substances
+</STRONG>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">
+<A HREF="javascript:openSub('#s05f10')">[See before F10 for subdivisions
+</A>]
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">This category should be used when two or more psychoactive substances are known to be involved, but it is impossible to assess which substance is contributing most to the disorders. It should also be used when the exact identity of some or even all the psychoactive substances being used is uncertain or unknown, since many multiple drug users themselves often do not know the details of what they are taking.
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="3%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="6">misuse of drugs NOS
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+</BODY >
+</HTML>

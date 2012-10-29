@@ -1,0 +1,30 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-7">
+		<link href="../include/cohort.css" rel="stylesheet" type="text/css">
+		<title>Εισαγωγή εξετάσεων από αρχείο Excel</title>
+	</head>
+	<body>
+
+<FORM ACTION="excel2amacs.php" enctype="multipart/form-data" METHOD="POST">
+<h2>Αρχείο Excel που θα χρησιμοποιηθεί:</h2> <INPUT TYPE="FILE" NAME="xlsfile"> 
+	<select name="hospital" id="hospital">
+		<option value=""> - Επιλέξτε - </option>
+		<option value="attikon">Αττικόν</option>
+		<option value="attikon2-utf8">Αττικόν 2 (UTF-8)</option>
+		<option value="laiko_katsarou">Λαϊκό (Αιμοδοσία - Κατσαρού)</option>
+		<option value="laiko_kordosis">Λαϊκό Παθ. Φυσ. (Κορδώσης)</option>
+		<option value="syggros">Συγγρός</option>
+		<option value="tzaneio">Τζάνειο</option>
+		<option value="tzaneio2-utf8">Τζάνειο 2 (UTF-8)</option>
+		<option value="erythros">Ερυθρός Σταυρός</option>
+		<option value="gennimatas">Γ. Γεννηματάς</option>
+		<option value="ippokrateio">Ιπποκράτειο</option>
+	</select>
+<input type=hidden name="uploaded" value="true"><BR>
+<INPUT TYPE="SUBMIT" VALUE="Αποστολή Αρχείου">
+</FORM>	
+
+	</body>
+</html>

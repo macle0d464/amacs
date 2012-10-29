@@ -1,0 +1,35 @@
+<head>
+<title>
+ICD-10: SGB-V-Ausgabe, Version 2.0
+</title>
+<script LANGUAGE="JavaScript">
+var correct_frame = true;
+
+with (document) {
+  write('<FRAMESET ROWS="85,*" border=0 frameborder=0 framespacing=0>');
+  write('<FRAME SRC="header.htm" NAME="head" SCROLLING="NO">') ;
+  write('<FRAMESET COLS="200,*" border=0 frameborder=0 framespacing=0>') ;
+  write('<FRAMESET ROWS="*,325" border=0 frameborder=0 framespacing=0>') ;
+  write('<FRAME SRC="nv-leer.htm" NAME="navi" SCROLLING = "NO">');
+  write('<FRAME SRC="findcode.htm" NAME="Suche" SCROLLING = "NO">') ;
+  write('</FRAMESET>') ;
+  
+  write('<FRAMESET ROWS="*,25" border=0 frameborder=0 framespacing=0>');
+  if (location.search == '') write('<FRAME SRC="navi.htm" NAME="text">') ;
+  else {
+    var url=location.search.substring(1) ;  
+    url=url.replace('\+','#') ;
+    write('<FRAME SRC="' + url + '" NAME="text">');
+  }
+write('<FRAME SRC="footer.htm" NAME="foot" SCROLLING="NO">') ;
+  write('</FRAMESET>');
+  
+  write('</FRAMESET>');
+  write('<NOFRAMES><P ALIGN="CENTER">') ;
+  write('<FONT COLOR="RED">') ;
+  write('<STRONG>IYou browser does not support frames</STRONG>') ;
+  write('</FONT>') ;
+  write('</NOFRAMES>') ;
+}
+</SCRIPT>
+</head>

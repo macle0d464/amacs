@@ -1,0 +1,17 @@
+<head>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#6ba2cc" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+	<!-- Footer start -->
+	<!--htdig_noindex-->
+	<table bgcolor="#6ba2cc" border="0" cellpadding="4" cellspacing="0" width="100%" summary="">
+		<tr>
+			<td width="28%" vAlign="top"><FONT color="#ffffff">Application prepared 
+					by:</FONT></td>
+			<td width="72%"><A TARGET="_top" href="http://www.dimdi.de/dynamic/de/index.html"><FONT color="#ffffff">DIMDI 
+						- German Institute of Medical Documentation and Information</FONT></A></td>
+		</tr>
+	</table>
+	<!--/htdig_noindex-->
+	<!-- Footer end -->
+</body>

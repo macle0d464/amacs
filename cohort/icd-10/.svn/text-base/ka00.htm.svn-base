@@ -1,0 +1,330 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter I (A00-B99)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter I">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kc00.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="ga00.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('ka00.htm',window.location.hash.substring(1))">
+
+<H1>Chapter I
+<BR>
+<HR>Certain infectious and parasitic diseases
+<BR>(A00-B99)
+</H1>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Includes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">diseases generally recognized as communicable or transmissible
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">carrier or suspected carrier of infectious disease 
+<NOBR>(
+<A HREF="gz20.htm#z22">Z22.-
+</A>)
+</NOBR>
+<BR>certain localized infections - see body system-related chapters
+<BR>infectious and parasitic diseases complicating pregnancy, childbirth and the puerperium [except obstetrical tetanus and human immunodeficiency virus [HIV] disease] 
+<NOBR>(
+<A HREF="go95.htm#o98">O98.-
+</A>)
+</NOBR>
+<BR>infectious and parasitic diseases specific to the perinatal period [except tetanus neonatorum, congenital syphilis, perinatal gonococcal infection and perinatal human immunodeficiency virus [HIV] disease] 
+<NOBR>(
+<A HREF="gp35.htm#p35">P35-P39
+</A>)
+</NOBR>
+<BR>influenza and other acute respiratory infections 
+<NOBR>(
+<A HREF="gj00.htm#j00">J00-J22
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga00.htm">A00-A09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Intestinal infectious diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga15.htm">A15-A19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Tuberculosis
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga20.htm">A20-A28
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Certain zoonotic bacterial diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga30.htm">A30-A49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other bacterial diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga50.htm">A50-A64
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Infections with a predominantly sexual mode of transmission
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga65.htm">A65-A69
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other spirochaetal diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga70.htm">A70-A74
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other diseases caused by chlamydiae
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga75.htm">A75-A79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Rickettsioses
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga80.htm">A80-A89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Viral infections of the central nervous system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="ga90.htm">A90-A99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Arthropod-borne viral fevers and viral haemorrhagic fevers
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb00.htm">B00-B09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Viral infections characterized by skin and mucous membrane lesions
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb15.htm">B15-B19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Viral hepatitis
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb20.htm">B20-B24
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Human immunodeficiency virus [HIV] disease
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb25.htm">B25-B34
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other viral diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb35.htm">B35-B49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Mycoses
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb50.htm">B50-B64
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Protozoal diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb65.htm">B65-B83
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Helminthiases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb85.htm">B85-B89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Pediculosis, acariasis and other infestations
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb90.htm">B90-B94
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Sequelae of infectious and parasitic diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb95.htm">B95-B97
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Bacterial, viral and other infectious agents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gb99.htm">B99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other infectious diseases
+</TD>
+</TR>
+</TABLE>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

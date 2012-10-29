@@ -1,0 +1,832 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter XIX (S00-T98)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XIX">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kr00.htm">Previous&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kv01.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gs00.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('ks00.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XIX
+<BR>
+<HR>Injury, poisoning and certain other consequences of external causes
+<BR>(S00-T98)
+</H1>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">birth trauma 
+<NOBR>(
+<A HREF="gp10.htm#p10">P10-P15
+</A>)
+</NOBR>
+<BR>obstetric trauma 
+<NOBR>(
+<A HREF="go60.htm#o70">O70-O71
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs00.htm">S00-S09
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the head
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs10.htm">S10-S19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the neck
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs20.htm">S20-S29
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the thorax
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs30.htm">S30-S39
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the abdomen, lower back, lumbar spine and pelvis
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs40.htm">S40-S49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the shoulder and upper arm
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs50.htm">S50-S59
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the elbow and forearm
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs60.htm">S60-S69
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the wrist and hand
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs70.htm">S70-S79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the hip and thigh
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs80.htm">S80-S89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the knee and lower leg
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gs90.htm">S90-S99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to the ankle and foot
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt00.htm">T00-T07
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries involving multiple body regions
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt08.htm">T08-T14
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Injuries to unspecified parts of trunk, limb or body region
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt15.htm">T15-T19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Effects of foreign body entering through natural orifice
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt20.htm">T20-T32
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Burns and corrosions
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt20.htm">T20-T25
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Burns and corrosions of external body surface, specified by site
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt26.htm">T26-T28
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Burns and corrosions confined to eye and internal organs
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt29.htm">T29-T32
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Burns and corrosions of multiple and unspecified body regions
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt33.htm">T33-T35
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Frostbite
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt36.htm">T36-T50
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Poisoning by drugs, medicaments and biological substances
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt51.htm">T51-T65
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Toxic effects of substances chiefly nonmedicinal as to source
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt66.htm">T66-T78
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other and unspecified effects of external causes
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt79.htm">T79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Certain early complications of trauma
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt80.htm">T80-T88
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Complications of surgical and medical care, not elsewhere classified
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gt90.htm">T90-T98
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Sequelae of injuries, of poisoning and of other consequences of external causes
+</TD>
+</TR>
+</TABLE>The chapter uses the S-section for coding different types of injuries related to single body regions and the T-section to cover injuries to multiple or unspecified body regions as well as poisoning and certain other consequences of external causes.
+<P>
+</P>Where multiple sites of injury are specified in the titles, the word "with" indicates involvement of both sites, and the word "and" indicates involvement of either or both sites.
+<P>
+</P>The principle of multiple coding of injuries should be followed wherever possible. Combination categories for multiple injuries are provided for use when there is insufficient detail as to the nature of the individual conditions, or for primary tabulation purposes when it is more convenient to record a single code; otherwise, the component injuries should be coded separately. Reference should also be made to the morbidity or mortality coding rules and guidelines in Volume 2.
+<P>
+</P>The blocks of the S-section as well as T00-T14 and T90-T98 contain injuries at the three-character level classified by type as follows:
+<P>
+</P>
+<STRONG>Superficial injury
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">abrasion
+<BR>blister (nonthermal)
+<BR>contusion, including bruise and haematoma
+<BR>injury from superficial foreign body (splinter) without major open wound
+<BR>insect bite (nonvenomous)
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Open wound
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">animal bite
+<BR>cut
+<BR>laceration
+<BR>puncture wound:
+<BR>&middot; NOS
+<BR>&middot; with (penetrating) foreign body
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Fracture
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">Fracture:
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">&middot; closed:
+<BR>&nbsp;&nbsp;&middot; comminuted
+<BR>&nbsp;&nbsp;&middot; depressed
+<BR>&nbsp;&nbsp;&middot; elevated
+<BR>&nbsp;&nbsp;&middot; fissured
+<BR>&nbsp;&nbsp;&middot; greenstick
+<BR>&nbsp;&nbsp;&middot; impacted
+<BR>&nbsp;&nbsp;&middot; linear
+<BR>&nbsp;&nbsp;&middot; march
+<BR>&nbsp;&nbsp;&middot; simple
+<BR>&nbsp;&nbsp;&middot; slipped epiphysis
+<BR>&nbsp;&nbsp;&middot; spiral
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">with or without delayed healing
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">&middot; dislocated
+<BR>&middot; displaced
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="7">Fracture:
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">&middot; open:
+<BR>&nbsp;&nbsp;&middot; compound
+<BR>&nbsp;&nbsp;&middot; infected
+<BR>&nbsp;&nbsp;&middot; missile
+<BR>&nbsp;&nbsp;&middot; puncture
+<BR>&nbsp;&nbsp;&middot; with foreign body
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">with or without delayed healing
+<BR>
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">fracture:
+<BR>&middot; pathological 
+<NOBR>(
+<A HREF="gm80.htm#m844">M84.4
+</A>)
+</NOBR>
+<BR>&nbsp;&nbsp;&middot; with osteoporosis 
+<NOBR>(
+<A HREF="gm80.htm#m80">M80.-
+</A>)
+</NOBR>
+<BR>&middot; stress 
+<NOBR>(
+<A HREF="gm80.htm#m843">M84.3
+</A>)
+</NOBR>
+<BR>malunion of fracture 
+<NOBR>(
+<A HREF="gm80.htm#m840">M84.0
+</A>)
+</NOBR>
+<BR>nonunion of fracture [pseudoarthrosis] 
+<NOBR>(
+<A HREF="gm80.htm#m841">M84.1
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Dislocation, sprain and strain
+</STRONG> including
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">avulsion
+<BR>laceration
+<BR>sprain
+<BR>strain
+<BR>traumatic:
+<BR>&middot; haemarthrosis
+<BR>&middot; rupture
+<BR>&middot; subluxation
+<BR>&middot; tear
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">of
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">{
+<BR>{
+<BR>{
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="1">cartilage
+<BR>joint (capsule)
+<BR>ligament
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Injury to nerves and spinal cord
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">complete or incomplete lesion of spinal cord
+<BR>lesion in continuity of nerves and spinal cord
+<BR>traumatic:
+<BR>&middot; division of nerve
+<BR>&middot; haematomyelia
+<BR>&middot; paralysis (transient)
+<BR>&middot; paraplegia
+<BR>&middot; quadriplegia
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Injury to blood vessels
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">avulsion
+<BR>cut
+<BR>laceration
+<BR>traumatic:
+<BR>&middot; aneurysm or fistula (arteriovenous)
+<BR>&middot; arterial haematoma
+<BR>&middot; rupture
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">of blood vessels
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Injury to muscle, fascia and tendon
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">avulsion
+<BR>cut
+<BR>laceration
+<BR>traumatic rupture
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">of muscle, fascia and tendon
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Crushing injury
+</STRONG>
+<P>
+</P>
+<STRONG>Traumatic amputation
+</STRONG>
+<P>
+</P>
+<STRONG>Injury to internal organs
+</STRONG> including:
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">blast injuries
+<BR>bruise
+<BR>concussion injuries
+<BR>crushing
+<BR>laceration
+<BR>traumatic:
+<BR>&middot; haematoma
+<BR>&middot; puncture
+<BR>&middot; rupture
+<BR>&middot; tear
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">of internal organs
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Other and unspecified injuries
+</STRONG>
+<P>
+</P>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

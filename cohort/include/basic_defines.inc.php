@@ -1,0 +1,17 @@
+<?php
+global $cohort_db_name2, $cohort_db_username2, $cohort_db_password2, $cohort_db_server2;
+$cohort_db_name2 = "cohort";
+$cohort_db_username2 = "cohort_user";
+$cohort_db_password2 = "c0h0rt_p@$$";
+$cohort_db_server2 = "localhost";
+require_once("db_name.php");
+$cohort_db_username = "cohort_user";
+$cohort_db_password = "c0h0rt_p@$$";
+$cohort_db_server = "localhost";
+$server = "localhost";
+//$server = "195.134.113.87";
+$install_dir = "cohort";
+$preferences = array('min_height' => 50, 'min_weight' => 20, 'num_initials'=> 2);
+
+require_once("cohort_tables.php");
+?>

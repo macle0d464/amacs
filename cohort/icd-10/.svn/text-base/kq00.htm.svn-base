@@ -1,0 +1,224 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter XVII (Q00-Q99)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XVII">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kp00.htm">Previous&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kr00.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gq00.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('kq00.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XVII
+<BR>
+<HR>Congenital malformations, deformations and chromosomal abnormalities
+<BR>(Q00-Q99)
+</H1>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">inborn errors of metabolism 
+<NOBR>(
+<A HREF="ge70.htm#e70">E70-E90
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq00.htm">Q00-Q07
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of the nervous system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq10.htm">Q10-Q18
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of eye, ear, face and neck
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq20.htm">Q20-Q28
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of the circulatory system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq30.htm">Q30-Q34
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of the respiratory system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq35.htm">Q35-Q37
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Cleft lip and cleft palate
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq38.htm">Q38-Q45
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other congenital malformations of the digestive system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq50.htm">Q50-Q56
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of genital organs
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq60.htm">Q60-Q64
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations of the urinary system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq65.htm">Q65-Q79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Congenital malformations and deformations of the musculoskeletal system
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq80.htm">Q80-Q89
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other congenital malformations
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gq90.htm">Q90-Q99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Chromosomal abnormalities, not elsewhere classified
+</TD>
+</TR>
+</TABLE>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

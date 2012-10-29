@@ -1,0 +1,11 @@
+<HTML><HEAD>
+<TITLE>Εισαγωγή Βιοχημικών Εξετάσεων από Excel</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1253">
+<link href="../include/cohort.css" rel="stylesheet" type="text/css">
+</HEAD>
+	
+<FORM ACTION="excel2bio_utf8.php"  enctype="multipart/form-data" METHOD="POST">
+<h2>Αρχείο Excel που θα χρησιμοποιηθεί:</h2> <INPUT TYPE="FILE" NAME="xlsfile">
+<input type=hidden name="uploaded" value="true"><BR>
+<INPUT TYPE="SUBMIT" VALUE="Αποστολή Αρχείου">
+</FORM>	

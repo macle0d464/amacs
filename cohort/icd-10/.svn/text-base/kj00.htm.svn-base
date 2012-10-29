@@ -1,0 +1,291 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter X (J00-J99)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter X">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="ki00.htm">Previous&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kk00.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gj00.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('kj00.htm',window.location.hash.substring(1))">
+
+<H1>Chapter X
+<BR>
+<HR>Diseases of the respiratory system
+<BR>(J00-J99)
+</H1>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Note:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">When a respiratory condition is described as occurring in more than one site and is not specifically indexed, it should be classified to the lower anatomic site (e.g., tracheobronchitis to bronchitis in J40).
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">certain conditions originating in the perinatal period 
+<NOBR>(
+<A HREF="gp00.htm#p00">P00-P96
+</A>)
+</NOBR>
+<BR>certain infectious and parasitic diseases 
+<NOBR>(
+<A HREF="ga00.htm#a00">A00-B99
+</A>)
+</NOBR>
+<BR>complications of pregnancy, childbirth and the puerperium 
+<NOBR>(
+<A HREF="go00.htm#o00">O00-O99
+</A>)
+</NOBR>
+<BR>congenital malformations, deformations and chromosomal abnormalities 
+<NOBR>(
+<A HREF="gq00.htm#q00">Q00-Q99
+</A>)
+</NOBR>
+<BR>endocrine, nutritional and metabolic diseases 
+<NOBR>(
+<A HREF="ge00.htm#e00">E00-E90
+</A>)
+</NOBR>
+<BR>injury, poisoning and certain other consequences of external causes 
+<NOBR>(
+<A HREF="gs00.htm#s00">S00-T98
+</A>)
+</NOBR>
+<BR>neoplasms 
+<NOBR>(
+<A HREF="gc00.htm#c00">C00-D48
+</A>)
+</NOBR>
+<BR>symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified 
+<NOBR>(
+<A HREF="gr00.htm#r00">R00-R99
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj00.htm">J00-J06
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Acute upper respiratory infections
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj10.htm">J10-J18
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Influenza and pneumonia
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj20.htm">J20-J22
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other acute lower respiratory infections
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj30.htm">J30-J39
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other diseases of upper respiratory tract
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj40.htm">J40-J47
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Chronic lower respiratory diseases
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj60.htm">J60-J70
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Lung diseases due to external agents
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj80.htm">J80-J84
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other respiratory diseases principally affecting the interstitium
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj85.htm">J85-J86
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Suppurative and necrotic conditions of lower respiratory tract
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj90.htm">J90-J94
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other diseases of pleura
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gj95.htm">J95-J99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other diseases of the respiratory system
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Asterisk categories for this chapter are provided as follows:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gj10.htm#j17">J17*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Pneumonia in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gj90.htm#j91">J91*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Pleural effusion in conditions classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gj95.htm#j99">J99*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Respiratory disorders in diseases classified elsewhere
+</TD>
+</TR>
+</TABLE>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

@@ -1,0 +1,665 @@
+<!DOCTYPE HTML SYSTEM "HTML4.DTD" >
+<HTML>
+<HEAD>
+<TITLE>ICD-10: Chapter XIII (M00-M99)
+</TITLE>
+<LINK HREF="style.css" REL="stylesheet" TYPE="text/css">
+<META NAME="AUTHOR" CONTENT="Michael Schopen">
+<META NAME="DESCRIPTION" CONTENT="International Statistical Classification of Diseases and Related Health Problems (ICD-10). HTML files for WWW.">
+<META NAME="KEYWORDS" CONTENT="ICD-10; tabular list;chapter XIII">
+<META NAME="COPYRIGHT" CONTENT="WHO">
+<META NAME="ROBOTS" CONTENT="index, follow">
+<SCRIPT TYPE="text/JavaScript">
+  function openSub(URL) {
+    var SUB = window.open(URL, "SUB", "dependent=1,height=200,width=500,resizable=1,scrollbars=1") ;
+    SUB.focus() ;
+  }
+</SCRIPT>
+<SCRIPT TYPE="text/JavaScript">
+function setNavi(url,hash) {
+  if (window.name != "SUB") {
+    if ((parent.location.href == self.location.href) || (!parent.correct_frame)) {
+      window.location.replace('fr-icd.htm?'+url+'+'+hash) ;
+    }
+    else {
+      with (parent.navi.document) {
+        open('text/html','replace') ;
+        writeln('<HEAD>') ;
+        writeln('<TITLE>Navigational frame work ICD-10</TITLE>') ;
+        writeln('<link href="style.css" rel="stylesheet" type="text/css">') ;
+        writeln('</HEAD>') ;
+        writeln('<BODY BGCOLOR="#000080">') ;
+        writeln('<table border="0" cellpadding="4" cellspacing="4" width="100%">') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="navi.htm#ka00">List&nbsp;of&nbsp;Chapters</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kl00.htm">Previous&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="kn00.htm">Next&nbsp;Chapter</A></td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="text" HREF="gm00.htm">First&nbsp;Block</A></td></tr>') ;
+        writeln('<tr><td>&nbsp;</td></tr>') ;
+        writeln('<tr><td class="navsub"><A class="nav" TARGET="_top" HREF="http://www.who.int/classifications/icd">ICD Homepage</A></td></tr></table>') ;
+        close() ;
+      }
+    }
+  }
+}
+</SCRIPT>
+
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF" onLoad="setNavi('km00.htm',window.location.hash.substring(1))">
+
+<H1>Chapter XIII
+<BR>
+<HR>Diseases of the musculoskeletal system and connective tissue
+<BR>(M00-M99)
+</H1>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="5%">
+<EM>
+<STRONG>Excludes:
+</STRONG>
+</EM>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">certain conditions originating in the perinatal period 
+<NOBR>(
+<A HREF="gp00.htm#p00">P00-P96
+</A>)
+</NOBR>
+<BR>certain infectious and parasitic diseases 
+<NOBR>(
+<A HREF="ga00.htm#a00">A00-B99
+</A>)
+</NOBR>
+<BR>compartment syndrome 
+<NOBR>(
+<A HREF="gt79.htm#t796">T79.6
+</A>)
+</NOBR>
+<BR>complications of pregnancy, childbirth and the puerperium 
+<NOBR>(
+<A HREF="go00.htm#o00">O00-O99
+</A>)
+</NOBR>
+<BR>congenital malformations, deformations and chromosomal abnormalities 
+<NOBR>(
+<A HREF="gq00.htm#q00">Q00-Q99
+</A>)
+</NOBR>
+<BR>endocrine, nutritional and metabolic diseases 
+<NOBR>(
+<A HREF="ge00.htm#e00">E00-E90
+</A>)
+</NOBR>
+<BR>injury, poisoning and certain other consequences of external causes 
+<NOBR>(
+<A HREF="gs00.htm#s00">S00-T98
+</A>)
+</NOBR>
+<BR>neoplasms 
+<NOBR>(
+<A HREF="gc00.htm#c00">C00-D48
+</A>)
+</NOBR>
+<BR>symptoms, signs and abnormal clinical and laboratory findings, not elsewhere classified 
+<NOBR>(
+<A HREF="gr00.htm#r00">R00-R99
+</A>)
+</NOBR>
+<BR>
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<A NAME="glied">
+</A>
+<STRONG>This chapter contains the following blocks:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD WIDTH="10%">
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm00.htm">M00-M25
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Arthropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm00.htm">M00-M03
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Infectious arthropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm05.htm">M05-M14
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Inflammatory polyarthropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm15.htm">M15-M19
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Arthrosis
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm20.htm">M20-M25
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Other joint disorders
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm30.htm">M30-M36
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Systemic connective tissue disorders
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm40.htm">M40-M54
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Dorsopathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm40.htm">M40-M43
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Deforming dorsopathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm45.htm">M45-M49
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Spondylopathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm50.htm">M50-M54
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Other dorsopathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm60.htm">M60-M79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Soft tissue disorders
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm60.htm">M60-M63
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Disorders of muscles
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm65.htm">M65-M68
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Disorders of synovium and tendon
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm70.htm">M70-M79
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Other soft tissue disorders
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm80.htm">M80-M94
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Osteopathies and chondropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm80.htm">M80-M85
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Disorders of bone density and structure
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm86.htm">M86-M90
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Other osteopathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm91.htm">M91-M94
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="2">Chondropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="10%">
+<A HREF="gm95.htm">M95-M99
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="3">Other disorders of the musculoskeletal system and connective tissue
+</TD>
+</TR>
+</TABLE>
+<P>
+</P>
+<STRONG>Asterisk categories for this chapter are provided as follows:
+</STRONG>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm00.htm#m01">M01*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Direct infections of joint in infectious and parasitic diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm00.htm#m03">M03*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Postinfective and reactive arthropathies in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm05.htm#m07">M07*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Psoriatic and enteropathic arthropathies
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm05.htm#m09">M09*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Juvenile arthritis in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm05.htm#m14">M14*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Arthropathies in other diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm30.htm#m36">M36*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Systemic disorders of connective tissue in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm45.htm#m49">M49*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Spondylopathies in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm60.htm#m63">M63*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Disorders of muscle in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm65.htm#m68">M68*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Disorders of synovium and tendon in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm70.htm#m73">M73*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Soft tissue disorders in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm80.htm#m82">M82*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Osteoporosis in diseases classified elsewhere
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">
+<A HREF="gm86.htm#m90">M90*
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT">Osteopathies in diseases classified elsewhere
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+</TABLE>
+<TABLE BORDER="0" WIDTH="100%">
+<TR>
+<TD WIDTH="8%">
+</TD>
+<TD WIDTH="3%">
+</TD>
+<TD WIDTH="8%">
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+<TD>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="9">
+<A NAME="s13m00">
+</A>Site of musculoskeletal involvement
+<P>
+</P>The following subclassification to indicate the site of involvement is provided for optional use with appropriate categories in Chapter XIII. As local extensions or specialty adaptations may vary in the number of characters used, it is suggested that the supplementary site subclassification be placed in an identifiably separate position (e.g. in an additional box). Different sub-classifications for use with derangement of knee, dorsopathies, and biomechanical lesions not elsewhere classified are given at M23, before M40 and at M99 respectively.
+<P>
+</P>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">0
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Multiple sites
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">1
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Shoulder region
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">clavicle
+<BR>scapula
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="3">acromioclavicular
+<BR>glenohumeral
+<BR>sternoclavicular
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" WIDTH="2%">}
+<BR>}
+<BR>}
+<BR>
+</TD>
+<TD VALIGN="MIDDLE" ALIGN="LEFT" COLSPAN="2">joints
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">2
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Upper arm
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">humerus
+<BR>elbow joint
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">3
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Forearm
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">radius
+<BR>ulna
+<BR>wrist joint
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">4
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Hand
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">carpus
+<BR>fingers
+<BR>metacarpus
+<BR>joints between these bones
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">5
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Pelvic region and thigh
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">buttock
+<BR>femur
+<BR>pelvis
+<BR>hip (joint)
+<BR>sacroiliac joint
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">6
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Lower leg
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">fibula
+<BR>knee joint
+<BR>tibia
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">7
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Ankle and foot
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">metatarsus
+<BR>tarsus
+<BR>toes
+<BR>ankle joint
+<BR>other joints in foot
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">8
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Other
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT">
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">head
+<BR>neck
+<BR>ribs
+<BR>skull
+<BR>trunk
+<BR>vertebral column
+<BR>
+</TD>
+</TR>
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="8%">9
+</TD>
+<TD VALIGN="TOP" ALIGN="LEFT" COLSPAN="8">Site unspecified
+</TD>
+</TR>
+</TABLE>
+<HR>
+<TABLE BORDER="0" WIDTH="100%">
+<TR VALIGN="TOP">
+<TD VALIGN="TOP" ALIGN="LEFT" WIDTH="33%">Processed on 03.06.2003 
+<A HREF="mailto:schopen@dimdi.de">M.S.
+</A>
+</TD>
+<TD VALIGN="TOP" ALIGN="CENTER" WIDTH="34%">Source: World Health Organization
+</TD>
+<TD VALIGN="TOP" ALIGN="RIGHT" WIDTH="33%">&copy; Copyright WHO 1994/2003
+</TD>
+</TR>
+</TABLE>
+
+</BODY >
+
+</HTML>

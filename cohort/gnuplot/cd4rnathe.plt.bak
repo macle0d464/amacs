@@ -1,0 +1,22 @@
+set terminal png nocrop enhanced font arial 12 size 1024,768 
+	set output 'cd4rnathe.png'
+	set style line 1 lw 2 pt 5
+	set style line 2 lw 3 pt 6
+	set title 'CD4, HIV-RNA and Therapies data'
+	set xdata time
+	set timefmt '%Y-%m-%d'
+	set format x '%Y'
+	set yrange [ 80 : 619 ]
+	set y2tics 0, 0.25
+	set ytics nomirror
+	set xlabel 'Years'
+	set ylabel 'cells/{/Symbol m}l'
+	set y2label 'log_{10}(copies/ml)'
+set label 1 'ZDV' at '1990-09-10', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 2 'ZDV / ddl' at '1995-09-20', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 3 'ZDV / 3TC' at '1996-11-01', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 4 'd4T / 3TC / INV' at '1997-09-03', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 5 'd4T / 3TC / FTV' at '1999-11-05', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 6 '3TC' at '2001-03-16', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+set label 7 'Combivir / EFV' at '2001-05-08', 509, 0 left rotate by 60 back textcolor lt 3 point pt 5 ps 1 offset character 0, 0.5, 0 font 'verdana,8'
+plot 'CD4.dat' using 1:2 axes x1y1 with linespoints title 'CD4 Count', 'RNA.dat' using 1:2 axes x1y2 with linespoints title 'HIV-RNA'

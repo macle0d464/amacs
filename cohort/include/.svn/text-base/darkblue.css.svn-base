@@ -1,0 +1,181 @@
+/************************************************************************************
+ * LEFT FRAME
+ ************************************************************************************/
+
+    /**
+     * Add styles for positioned layers
+    **/
+/*
+*/
+/* Additional effects for left frame not required or not possible because of lacking CSS-capability. */
+div{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    color:            #ffffff;
+}
+.heada{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    color:            #ffffff;
+}
+.headaCnt{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    color:            #ffffff;
+}
+.parent{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    color:            #ffffff;
+    text-decoration:  none;
+}
+.child{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    color:            #ffffff;
+    text-decoration:  none;
+}
+.item, .item:active, .item:hover, .tblItem, .tblItem:active{
+    font-size:        10px;
+    color:            #ffffff;
+    text-decoration:  none;
+}
+.tblItem:hover{
+    color:            #ffffcc;
+    text-decoration:  underline;
+}
+/*
+*/
+/* Always enabled stylesheets (left frame) */
+body{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    background-color: #666699;
+    margin: 0px;
+    padding: 2px 2px 2px 2px;
+}
+input{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+}
+select{
+    font-family:      Verdana, Arial, Helvetica, sans-serif;
+    font-size:        10px;
+    background-color: #ffffff;
+    color:            #000000;
+    width:            150px;
+}
+hr{
+    color:            #ffffff;
+    background-color: #ffffff;
+    border:           0;
+    height:           1px;
+}
+img, input, select, button {
+    vertical-align: middle;
+}
+
+/* Calendar */
+table.calendar {
+    width: 100%;
+}
+
+table.calendar td {
+    text-align: center;
+}
+
+table.calendar td a {
+    display: block;
+}
+
+table.calendar td a:hover {
+    background-color: #CCCCFF;
+}
+
+table.calendar th {
+    background-color: #666699;
+}
+
+table.calendar td.selected {
+    background-color: #FFCC99;
+}
+
+img.calendar {
+    border: none;
+}
+
+form.clock {
+    text-align: center;
+}
+
+.nowrap {
+    white-space: nowrap;
+}
+
+div.nowrap {
+    margin: 0px;
+    padding: 0px;
+}
+
+li {
+    padding-bottom: 1em;
+}
+
+li form {
+    display: inline;
+}
+
+ul.main {
+    margin: 0px;
+    padding-left:2em;
+    padding-right:2em;
+}
+
+/* no longer needed
+ul.main li {
+    list-style-image: url(../images/dot_violet.png);
+    padding-bottom: 0.1em;
+}
+*/
+
+button {
+    /* buttons in some browsers (eg. Konqueror) are block elements, this breaks design */
+    display: inline;
+}
+
+/* Tabs */
+
+/* For both light and non light */
+.tab {
+    white-space: nowrap;
+    font-weight: bolder;
+}
+
+/* For non light */
+td.tab {
+    width: 64px;
+    text-align: center;
+    background-color: #dfdfdf;
+}
+
+td.tab a {
+    display: block;
+}
+
+/* For light */
+div.tab { }
+
+/* Highlight active tab */
+td.activetab {
+    background-color: silver;
+}
+
+/* Textarea */
+
+textarea {
+    overflow: auto;
+}
+
+.nospace {
+    margin: 0px;
+    padding: 0px;
+}

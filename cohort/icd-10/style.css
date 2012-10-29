@@ -1,0 +1,136 @@
+BODY,P,TD,TH,A,UL,LI,OL,DIV,SPAN,BLOCKQUOTE,TEXTAREA,INPUT,SELECT { font-family: verdana,arial,helvetica,sans-serif; color: #000000; font-size: 10pt; }
+
+H1,H2,H3,H4,H5,H6 { font-family: verdana,arial,helvetica,sans-serif; font-weight: bold; }
+
+H1 { font-size: 12pt; color: #3366EE; }
+H2 { font-size: 10pt; color: #3366EE; }
+H3 { font-size: 10pt; color: #000000; }
+H4 { font-size: 10pt; color: #000000; }
+H5 { font-size: 10pt; color: #000000; }
+H6 { font-size: 10pt; color: #000000; }
+
+TH { font-weight:bold; }
+
+/*  default link  */
+A			{ color: #3366EE; text-decoration: underline; }
+A:link		{ color: #3366EE; text-decoration: underline; }
+A:visited	{ color: #0066ff; text-decoration: underline; }
+A:active	{ color: #FF9900; text-decoration: underline; }
+A:hover		{ color: #FF9900; text-decoration: underline; }
+
+/*  navigation links  */
+A.nav			{ color: #ffffff; font-weight:bold; text-decoration: none; }
+A.nav:link		{ color: #ffffff; font-weight:bold; text-decoration: none; }
+A.nav:visited	{ color: #ffffff; font-weight:bold; text-decoration: none; }
+A.nav:active	{ color: #FF9900; font-weight:bold; text-decoration: none; }
+A.nav:hover		{ color: #FF9900; font-weight:bold; text-decoration: none; }
+A.navcurrent			{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navcurrent:link		{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navcurrent:visited	{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navcurrent:active		{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navcurrent:hover		{ color: #000080; font-weight:bold; text-decoration: none; }
+
+A.navsub2			{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2:link		{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2:visited	{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2:active	{ color: #FFFFFF; font-weight:bold; text-decoration: none; }
+A.navsub2:hover		{ color: #FFFFFF; font-weight:bold; text-decoration: none; }
+A.navsub2current			{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2current:link		{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2current:visited	{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2current:active		{ color: #000080; font-weight:bold; text-decoration: none; }
+A.navsub2current:hover		{ color: #000080; font-weight:bold; text-decoration: none; }
+
+/*  (Mail-) Links for page foot  */
+A.whitesmall	   		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.whitesmall:link		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.whitesmall:visited	{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.whitesmall:active		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.whitesmall:hover		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+
+/*  BMGS-Link in NavLeft  */
+A.bmgs                   { color: #ffffff; font-size: 7pt; text-decoration: none; }
+A.bmgs:link				 { color: #ffffff; font-size: 7pt; text-decoration: none; }
+A.bmgs:visited			 { color: #ffffff; font-size: 7pt; text-decoration: none; }
+A.bmgs:active			 { color: #ffffff; font-size: 7pt; text-decoration: none; }
+A.bmgs:hover			 { color: #ffffff; font-size: 7pt; text-decoration: none; }
+
+/*  Links with button layout  */
+A.button { 
+  color: #ffffff;
+  background-color: #3366EE; 
+  text-decoration: none;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #B9CCFF;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
+A.button:link { 
+  color: #ffffff;
+  text-decoration: none;
+}
+A.button:visited { 
+  color: #ffffff;
+  text-decoration: none;
+}
+A.button:active { 
+  color: #ffffff;
+  text-decoration: none;
+}
+A.button:hover {
+  color: #ff9900;
+  text-decoration: none; 
+}
+
+/*  Reiter Klassi-Download  */
+A.reitersmall	   		{ color: #000080; font-size: 8pt; text-decoration: none; }
+A.reitersmall:link		{ color: #000080; font-size: 8pt; text-decoration: none; }
+A.reitersmall:visited	{ color: #000080; font-size: 8pt; text-decoration: none; }
+A.reiterwhitesmall:active		{ color: #000080; font-size: 8pt; text-decoration: none; }
+A.reiterwhitesmall:hover		{ color: #000080; font-size: 8pt; text-decoration: none; }
+
+A.reiterwhitesmall	   		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.reiterwhitesmall:link		{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.reiterwhitesmall:visited	{ color: #ffffff; font-size: 8pt; text-decoration: underline; }
+A.reiterwhitesmall:active		{ color: #FF9900; font-size: 8pt; text-decoration: underline; }
+A.reiterwhitesmall:hover		{ color: #FF9900; font-size: 8pt; text-decoration: underline; }
+
+/*  font variations  */
+.small { font-size: 8pt; }
+.white { color: #ffffff; }
+.bold { font-weight: bold; }
+.whitebold { color: #ffffff; font-weight: bold; }
+.whitesmall { font-size: 8pt; color: #ffffff; }
+.blue { color: #000080; }
+.red { color: #FF0000; }
+.lightbluebold { color: #3366EE; font-weight: bold; }
+.likeh1 { font-size: 12pt; color: #3366EE; }
+.likeh1bold { font-size: 12pt; color: #3366EE; font-weight: bold; }
+
+/*  table cells  */
+td.lightestblue { background-color: #B9CCFF; }
+td.lightblue { background-color: #3366EE; }
+td.lightbluesmall { background-color: #3366EE; font-size: 8pt; }
+td.darkblue { background-color: #000080; }
+td.white { background-color: #FFFFFF; color: #000000; }
+td.grey { background-color: #cccccc; }
+td.small { font-size: 8pt; }
+td.whitesmall { font-size: 8pt; color: #ffffff; }
+
+/*  table cells for navigation  */
+td.navhead  		{ background-color: #000080; text-align: center; cursor: hand; }
+td.navheadcurrent 	{ background-color: #FF9900; text-align: center; cursor: hand; }
+td.navsub 			{ background-color: #3366EE; text-align: left; border-width:1px; border-style:solid; border-color:#999999; cursor: hand; }
+td.navsubcurrent	{ background-color: #FF9900; text-align: left; border-width:1px; border-style:solid; border-color:#999999; cursor: hand; }
+td.navsub2 			{ background-color: #6699ff; text-align: left; border-width:1px; border-style:solid; border-color:#999999; cursor: hand; }
+td.navsub2current 	{ background-color: #FF9900; text-align: left; border-width:1px; border-style:solid; border-color:#999999; cursor: hand; }
+
+/*  list styles  */
+li.square { list-style-type: square; }
+
+/*  input fields and buttons  */
+.inpbutton       { background-color: #3366EE; color: #ffffff; margin: 3px; border-style: solid; border-color: #B9CCFF; }
+.inpbutton:hover { background-color: #3366EE; color: #ff9900; margin: 3px; border-style: solid; border-color: #B9CCFF; }
