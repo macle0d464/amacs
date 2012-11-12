@@ -1,5 +1,5 @@
 <?php
-include_once "Spreadsheet/Excel/Writer.php";
+include_once "/include/Spreadsheet/Excel/Writer.php";
 
 function perform_post_insert_actions($table, $url, $extra)
 {

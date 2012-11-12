@@ -116,7 +116,7 @@ function get_bio_data($excel) {
 			$exceldata[$k]['units_cell'] = $units_cell;
 			$exceldata[$k]['units_encoding'] = "";
 	
-			$exceldata[$k]['index'] = "($i, $j)";
+			$exceldata[$k]['index'] = "$i-$j";
 			$exceldata[$k]['date_cell'] = clean_cell($excel->val(1, $j));
 			$dateparts = explode("/", $exceldata[$k]['date_cell']);
 			if ( $dateparts[2] < 50) {
@@ -124,7 +124,7 @@ function get_bio_data($excel) {
 			} else {
 				$dateparts[2] = 1900 + $dateparts[2];
 			}
-			$exceldata[$k]['mysql_date'] = $dateparts[0]."-".$dateparts[1]."-".$dateparts[2];
+			$exceldata[$k]['mysql_date'] = $dateparts[2]."-".$dateparts[1]."-".$dateparts[0];
 			$exceldata[$k]['value_cell'] = clean_cell($excel->val($i, $j));
 			if ($exceldata[$k]['value_cell'] != "") {
 				// Value exists so add the element to the array
@@ -191,7 +191,7 @@ function get_aim_data($excel) {
             $exceldata[$k]['units_cell'] = $units_cell;
             $exceldata[$k]['units_encoding'] = "";
     
-            $exceldata[$k]['index'] = "($i, $j)";
+            $exceldata[$k]['index'] = "$i-$j";
             $exceldata[$k]['date_cell'] = clean_cell($excel->val(1, $j));
             $dateparts = explode("/", $exceldata[$k]['date_cell']);
             if ( $dateparts[2] < 50) {
@@ -199,7 +199,7 @@ function get_aim_data($excel) {
             } else {
                 $dateparts[2] = 1900 + $dateparts[2];
             }
-            $exceldata[$k]['mysql_date'] = $dateparts[0]."-".$dateparts[1]."-".$dateparts[2];
+            $exceldata[$k]['mysql_date'] = $dateparts[2]."-".$dateparts[1]."-".$dateparts[0];
             $exceldata[$k]['value_cell'] = clean_cell($excel->val($i, $j));
             if ($exceldata[$k]['value_cell'] != "") {
                 // Value exists so add the element to the array
